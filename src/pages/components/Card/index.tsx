@@ -13,7 +13,7 @@ type CardProps = {
 function Card({ title, description, image, price }: CardProps) {
   return (
     <div className="flex bg-white mb-6 sm:mb-0 rounded-xl p-2 relative">
-      <Image objectFit="contain" width={150} height={150} src={image} />
+      <Image placeholder="blur" objectFit="contain" width={150} height={150} src={image} />
       <div className="ml-2 py-3 flex flex-col justify-between w-2/3">
         <div className="font-bold">{title}</div>
         <div className="text-sm text-gray-400 w-2/3">{description}</div>
