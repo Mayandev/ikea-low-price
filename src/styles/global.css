@@ -2,12 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "RibeyeMarrow";
+  src: url("/fonts/RibeyeMarrow.ttf");
+  font-display: swap;
+  font-style: bold;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: url("/fonts/Quicksand.ttf");
+  font-display: swap;
+  font-style: bold;
+  font-weight: 700;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Quicksand", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #f2f2f2;
 }
 
 a {

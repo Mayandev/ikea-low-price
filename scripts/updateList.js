@@ -1,12 +1,10 @@
 const fs = require('fs');
-const path = require('path');
 const axios = require('axios').default;
 
 const catalog = require('../public/catalog.json');
 
 const getAllSubcategories = catalog => {
   const map = new Map();
-
   const recursive = catalog => {
     for (const category of catalog) {
       if (category.subCategories.length > 0) {
