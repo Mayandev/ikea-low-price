@@ -18,6 +18,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "sync": "node ./scripts/updateList.js",
     "type-check": "tsc",
     "lint": "eslint --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\"",
     "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\" --write",
