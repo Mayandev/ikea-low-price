@@ -76,7 +76,7 @@ export default function Home() {
         </ProductContext.Provider>
       </main>
 
-      <footer className="flex justify-center text-gray-700 py-4 font-bold">
+      <footer className="flex justify-center text-gray-700 py-4 font-bold dark:text-white">
         <a href="https://github.com/mayandev" className="hover:underline mx-3">
           GitHub
         </a>
