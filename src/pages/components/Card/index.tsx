@@ -45,7 +45,7 @@ export default function CardList() {
   );
 
   return (
-    <div className="mt-6 px-5 relative sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6">
+    <div className="mt-6 px-5 relative sm:px-0 sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-8">
       {productList.map(
         ({
           id,

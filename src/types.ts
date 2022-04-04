@@ -88,3 +88,10 @@ export type ProductContextType = {
   category: RoomType;
   setCategory: Dispatch<SetStateAction<RoomType>>;
 };
+
+export type RoomMap = {
+  [key in RoomType]: {
+    rankingId: string;
+    subTitle: string;
+  }[];
+}

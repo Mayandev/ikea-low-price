@@ -1,6 +1,6 @@
 export default function Logo() {
   return (
-    <div className="sm:px-16 xl:px-32 py-10 hidden sm:block">
+    <div className="sm:px-16 xl:px-48 2xl:px-64 py-10 hidden sm:block">
       <div>
         <span className="bg-[#FBD914] w-20 h-20 rounded-full inline-block" />
         <span className="bg-[#1A52BF] w-20 h-20 ml-4 inline-block" />

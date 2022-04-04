@@ -7,7 +7,7 @@ import { useContext } from "react";
 export default function Banner() {
   const { category } = useContext(ProductContext);
   return (
-    <div className="h-72  w-full bg-[#b76d32] bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]">
+    <div className="h-72 sm:h-52  w-full bg-[#b76d32] bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]">
       <div className="sm:hidden absolute bottom-0 left-0 h-24 w-full bg-gradient-to-b from-[#b76d32]/0 to-[#f2f2f2]" />
       <div className="h-40 relative text-white flex flex-col items-center justify-end ">
         <div className="flex">

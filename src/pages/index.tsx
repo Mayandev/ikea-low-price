@@ -26,7 +26,7 @@ export default function Home() {
 
       {/* <CardList /> */}
 
-      <main className="sm:px-16 xl:px-32">
+      <main className="sm:px-16 xl:px-48 2xl:px-64">
         <ProductContext.Provider value={{ category, setCategory }}>
           <Banner />
           <Category />
