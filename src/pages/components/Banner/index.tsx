@@ -1,4 +1,4 @@
-import { CategoryMap } from "@/const";
+import { CategoryColorMap, CategoryMap } from "@/const";
 import { ProductContext } from "@/pages";
 import { RoomType } from "@/types";
 import Image from "next/image";
@@ -6,8 +6,14 @@ import { useContext } from "react";
 
 export default function Banner() {
   const { category } = useContext(ProductContext);
+
   return (
-    <div className="h-72 sm:h-44 sm:rounded-md  w-full bg-ikea-orange dark:bg-dark-black dark:sm:bg-dark-black sm:bg-ikea-blue bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]">
+    <div
+      className={
+        "h-72 sm:h-44 sm:rounded-md  w-full dark:bg-dark-black dark:sm:bg-dark-black bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]"
+      }
+      style={{ backgroundColor: CategoryColorMap[category as RoomType] }}
+    >
       <div className="sm:hidden absolute bottom-0 left-0 h-24 w-full bg-gradient-to-b from-ikea-orange/0 to-[#f2f2f2] dark:to-dark-black" />
       <div className="h-40 relative text-white flex flex-col items-center justify-end ">
         <div className="flex">

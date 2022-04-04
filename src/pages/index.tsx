@@ -5,10 +5,15 @@ import CardList from "./components/Card/";
 import Category from "./components/Category";
 import Logo from "./components/Logo";
 import { ProductContextType, RoomType } from "@/types";
+import { CategoryColorMap } from "@/const";
 
-export const ProductContext = createContext<Partial<ProductContextType>>({});
+export const ProductContext = createContext<Partial<ProductContextType>>({
+  category: "all",
+});
+
 const SiteTitle = "IKEA Low Price Products | 宜家低价好物";
 const SiteDesc = "IKEA Low Price Products | 宜家低价好物；宜家折扣价";
+
 export default function Home() {
   const [category, setCategory] = useState<RoomType>("all");
 
@@ -40,7 +45,7 @@ export default function Home() {
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#da532c" />
-        <meta name="theme-color" content="#ffffff" />
+        <meta name="theme-color" content={CategoryColorMap[category]} />
         <title>{SiteTitle}</title>
         <meta name="description" content={SiteDesc} />
         <meta content={SiteDesc} name="description" />
