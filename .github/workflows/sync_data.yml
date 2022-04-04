@@ -1,4 +1,4 @@
-name: Publish GitHub Pages
+name: Sync product data
 
 # Controls when the action will run. 
 on:
