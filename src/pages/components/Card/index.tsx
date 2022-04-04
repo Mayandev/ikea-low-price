@@ -61,7 +61,9 @@ export default function CardList() {
             id={id}
             title={name}
             description={`${productType} ${designText && ", "} ${designText}`}
-            image={image}
+            image={`https://www.ikea.cn/cn/zh/images/products/${
+              image.split("__")[1]
+            }`}
             price={regularPrice}
             seoSlug={seoSlug}
           />
