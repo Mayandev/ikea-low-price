@@ -9,8 +9,9 @@ const run = async () => {
   const categories = Object.values(roomMap)
     .map(ranks => ranks.map(({ rankingId }) => rankingId))
     .flat();
+  const uniqueCategories = [...new Set(categories)];
   const data = await Promise.all(
-    categories.map(async (category, index) =>
+    uniqueCategories.map(async (category, index) =>
       limit(async () => {
         try {
           const resp = await fetch(`https://www.ikea.cn/api-host/content/ranking/${category}`);
