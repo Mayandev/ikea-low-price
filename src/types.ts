@@ -94,4 +94,4 @@ export type RoomMap = {
     rankingId: string;
     subTitle: string;
   }[];
-}
+};

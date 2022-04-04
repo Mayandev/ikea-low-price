@@ -60,7 +60,7 @@ export default function CardList() {
             key={id}
             id={id}
             title={name}
-            description={`${productType}, ${designText}`}
+            description={`${productType} ${designText && ", "} ${designText}`}
             image={image}
             price={regularPrice}
             seoSlug={seoSlug}

@@ -2,7 +2,7 @@ import productsData from "@/public/data.json";
 import roomMap from "@/public/roomMap.json";
 import { Product, RankData, RoomType } from "@/types";
 
-export const getProducts = (roomType: RoomType = 'all') => {
+export const getProducts = (roomType: RoomType = "all") => {
   const sortedData = (products: Product[]) =>
     products.sort(
       (data1, data2) =>

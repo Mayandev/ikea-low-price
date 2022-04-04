@@ -34,7 +34,25 @@ export default function Home() {
         </ProductContext.Provider>
       </main>
 
-      <footer />
+      <footer className="flex justify-center text-gray-700 py-4 font-bold">
+        <a href="https://github.com/mayandev" className="hover:underline mx-3">
+          GitHub
+        </a>
+        {" · "}
+        <a
+          href="https://www.figma.com/file/VbgWVwF0CuzZTtjSaR6iho/IKEA-Low-Price"
+          className="hover:underline mx-3"
+        >
+          设计稿
+        </a>
+        {" · "}
+        <a
+          href="https://dun.mianbaoduo.com/@mayandev "
+          className="hover:underline mx-3"
+        >
+          打赏开发者
+        </a>
+      </footer>
     </>
   );
 }
