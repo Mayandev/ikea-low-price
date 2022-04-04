@@ -59,9 +59,9 @@ export default function Home() {
         <meta property="og:title" content={SiteTitle} />
         <meta property="og:description" content={SiteDesc} />
         <meta property="og:url" content="https://ikea-lp.netlify.app/" />
-        <meta property="og:image" content="https://i.imgur.com/43NFIi5.png" />
+        <meta property="og:image" content="https://i.imgur.com/tzg1pDf.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="https://i.imgur.com/43NFIi5.png" />
+        <meta name="twitter:image" content="https://i.imgur.com/tzg1pDf.png" />
         <meta name="twitter:site" content="@phillzou" />
         <meta
           name="twitter:title"
