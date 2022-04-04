@@ -11,15 +11,15 @@ const run = async () => {
     .flat();
   const uniqueCategories = [...new Set(categories)];
   const data = await Promise.all(
-    uniqueCategories.map(async (category, index) =>
+    uniqueCategories.map(async category =>
       limit(async () => {
         try {
           const resp = await fetch(`https://www.ikea.cn/api-host/content/ranking/${category}`);
           const data = await resp.json();
-          const {products} = data;
+          const { products } = data;
           if (Array.isArray(products)) {
             // filter all discount products
-            return {...data, products: products.filter(product => product.price.breathTaking === true)};
+            return { ...data, products: products.filter(product => product.price.breathTaking === true) };
           }
           return {};
         } catch (error) {
@@ -29,7 +29,7 @@ const run = async () => {
       })
     )
   );
-  fs.writeFileSync(__dirname + '/../public/data.json', JSON.stringify(data.flat()));
+  fs.writeFileSync(`${__dirname }/../public/data.json`, JSON.stringify(data.flat()));
 };
 
 run();

@@ -19,7 +19,10 @@ export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(false);
 
   useEffect(() => {
-    setIsDarkMode(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+    setIsDarkMode(
+      window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches
+    );
   }, []);
 
   return (
@@ -50,7 +53,10 @@ export default function Home() {
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#da532c" />
-        <meta name="theme-color" content={isDarkMode ? '#35363a' : CategoryColorMap[category]} />
+        <meta
+          name="theme-color"
+          content={isDarkMode ? "#35363a" : CategoryColorMap[category]}
+        />
         <title>{SiteTitle}</title>
         <meta name="description" content={SiteDesc} />
         <meta content={SiteDesc} name="description" />
@@ -81,7 +87,10 @@ export default function Home() {
       </main>
 
       <footer className="flex justify-center text-gray-700 py-4 font-bold dark:text-white">
-        <a href="https://github.com/mayandev/ikea-low-price" className="hover:underline mx-3">
+        <a
+          href="https://github.com/mayandev/ikea-low-price"
+          className="hover:underline mx-3"
+        >
           GitHub
         </a>
         {" · "}

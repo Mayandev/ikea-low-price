@@ -194,6 +194,8 @@
     { "rankingId": "THIRD_CATALOG_19143_SALES_QUANTITY", "subTitle": "餐馆桌子" }
   ],
   "kitchen": [
+    {"rankingId": "SECONDARY_CATALOG_20609_SALES_QUANTITY", "subTitle": "清洁配件"},
+    {"rankingId": "SECONDARY_CATALOG_15938_SALES_QUANTITY", "subTitle": "洗完用具"},
     { "rankingId": "THIRD_CATALOG_15927_SALES_QUANTITY", "subTitle": "烹饪配件" },
     { "rankingId": "THIRD_CATALOG_10471_SALES_QUANTITY", "subTitle": "推车和岛台" },
     { "rankingId": "THIRD_CATALOG_20677_SALES_QUANTITY", "subTitle": "墙面储藏件" },
@@ -311,6 +313,10 @@
     { "rankingId": "FOURTH_CATALOG_48927_SALES_QUANTITY", "subTitle": "浴室配件套装" }
   ],
   "bathroom": [
+    {"rankingId": "SECONDARY_CATALOG_20601_SALES_QUANTITY", "subTitle": "洗衣蓝"},
+    {"rankingId": "SECONDARY_CATALOG_20602_SALES_QUANTITY", "subTitle": "晾衣架"},
+    {"rankingId": "SECONDARY_CATALOG_48925_SALES_QUANTITY", "subTitle": "洗衣柜和搁架"},
+    {"rankingId": "SECONDARY_CATALOG_55004_SALES_QUANTITY", "subTitle": "洗衣配件"},
     { "rankingId": "THIRD_CATALOG_700194_SALES_QUANTITY", "subTitle": "抹布&海绵" },
     { "rankingId": "THIRD_CATALOG_20601_SALES_QUANTITY", "subTitle": "洗衣篮" },
     { "rankingId": "THIRD_CATALOG_700193_SALES_QUANTITY", "subTitle": "洗碗刷" },
@@ -420,6 +426,7 @@
     { "rankingId": "FOURTH_CATALOG_48927_SALES_QUANTITY", "subTitle": "浴室配件套装" }
   ],
   "hallway": [
+    { "rankingId": "SECONDARY_CATALOG_16213_SALES_QUANTITY", "subTitle": "废纸篓和储物袋"},
     { "rankingId": "THIRD_CATALOG_10776_SALES_QUANTITY", "subTitle": "花瓶" },
     { "rankingId": "THIRD_CATALOG_10451_SALES_QUANTITY", "subTitle": "抽屉柜" },
     { "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY", "subTitle": "衣服储物盒" },
