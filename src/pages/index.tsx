@@ -1,4 +1,4 @@
-import { createContext, useCallback, useState } from "react";
+import { createContext, useCallback, useEffect, useState } from "react";
 import Head from "next/head";
 import Banner from "./components/Banner";
 import CardList from "./components/Card/";
@@ -16,7 +16,11 @@ const SiteDesc = "IKEA Low Price Products | 宜家低价好物；宜家折扣价
 
 export default function Home() {
   const [category, setCategory] = useState<RoomType>("all");
-  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    setIsDarkMode(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+  }, []);
 
   return (
     <>
