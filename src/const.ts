@@ -17,8 +17,8 @@ export const CategoryMap = {
 
 export const CategoryColorMap = {
   all: "#e04e4e",
-  "living-room": "#e0c14e",
-  "dining-room": "#1499C2",
+  "living-room": "#ffd800",
+  "dining-room": "#1a52bf",
   kitchen: "#5de04e",
   bedroom: "#4ee0a7",
   bathroom: "#4eb3e0",
