@@ -14,17 +14,15 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TypeScript starter for Next.js</title>
+        <title>IKEA Low Price Products | 宜家低价好物</title>
         <meta
           name="description"
-          content="TypeScript starter for Next.js that includes all you need to build amazing apps"
+          content="IKEA Low Price Products | 宜家低价好物；宜家折扣价"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Logo />
-
-      {/* <CardList /> */}
 
       <main className="sm:px-16 xl:px-48 2xl:px-64">
         <ProductContext.Provider value={{ category, setCategory }}>

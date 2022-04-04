@@ -1,5 +1,5 @@
-import { getProducts } from "@/utils";
-import Image from "next/image";
+import { getProducts, shimmer, toBase64 } from "@/utils";
+import Image, { ImageLoaderProps } from "next/image";
 
 import arrowRight from "@/public/icons/arrow-right.svg";
 import { useContext, useMemo } from "react";
@@ -16,12 +16,22 @@ type CardProps = {
 };
 
 function Card({ title, description, image, price, id, seoSlug }: CardProps) {
+  const myLoader = ({ src, width, quality }: ImageLoaderProps) =>
+    `https://images.example.com/${src}?w=${width}&q=${quality || 75}`;
+
   return (
     <a
       href={`https://www.ikea.cn/cn/zh/p/${seoSlug}-${id}`}
       className="flex bg-white mb-6 sm:mb-0 rounded-xl p-2 relative"
     >
-      <Image objectFit="contain" width={120} height={120} src={image} />
+      <Image
+        objectFit="contain"
+        width={120}
+        height={120}
+        src={image}
+        placeholder="blur"
+        blurDataURL={`data:image/svg+xml;base64,${toBase64(shimmer(700, 475))}`}
+      />
       <div className="ml-2 py-3 flex flex-col justify-between w-2/3">
         <div className="font-bold">{title}</div>
         <div className="text-sm text-gray-400 w-2/3">{description}</div>
@@ -43,7 +53,6 @@ export default function CardList() {
     () => getProducts(category as RoomType),
     [category]
   );
-
   return (
     <div className="mt-6 px-5 relative sm:px-0 sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-8">
       {productList.map(
@@ -60,7 +69,7 @@ export default function CardList() {
             key={id}
             id={id}
             title={name}
-            description={`${productType} ${designText && ', '} ${designText}`}
+            description={`${productType} ${designText && ", "} ${designText}`}
             image={image}
             price={regularPrice}
             seoSlug={seoSlug}
