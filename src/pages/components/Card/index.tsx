@@ -22,7 +22,7 @@ function Card({ title, description, image, price, id, seoSlug }: CardProps) {
   return (
     <a
       href={`https://www.ikea.cn/cn/zh/p/${seoSlug}-${id}`}
-      className="flex bg-white mb-6 sm:mb-0 rounded-xl p-2 relative"
+      className="h-40 flex bg-white mb-6 sm:mb-0 rounded-xl p-2 relative"
     >
       <Image
         objectFit="contain"

@@ -7,19 +7,57 @@ import Logo from "./components/Logo";
 import { ProductContextType, RoomType } from "@/types";
 
 export const ProductContext = createContext<Partial<ProductContextType>>({});
-
+const SiteTitle = "IKEA Low Price Products | 宜家低价好物";
+const SiteDesc = "IKEA Low Price Products | 宜家低价好物；宜家折扣价";
 export default function Home() {
   const [category, setCategory] = useState<RoomType>("all");
 
   return (
     <>
       <Head>
-        <title>IKEA Low Price Products | 宜家低价好物</title>
-        <meta
-          name="description"
-          content="IKEA Low Price Products | 宜家低价好物；宜家折扣价"
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/favicon/apple-touch-icon.png"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/favicon/favicon-16x16.png"
+        />
+        <link rel="icon" href="/favicon/favicon.ico" />
+        <link rel="manifest" href="/favicon/site.webmanifest" />
+        <link
+          rel="mask-icon"
+          href="/favicon/safari-pinned-tab.svg"
+          color="#5bbad5"
+        />
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="theme-color" content="#ffffff" />
+        <title>{SiteTitle}</title>
+        <meta name="description" content={SiteDesc} />
+        <meta content={SiteDesc} name="description" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={SiteTitle} />
+        <meta property="og:title" content={SiteTitle} />
+        <meta property="og:description" content={SiteDesc} />
+        <meta property="og:url" content="https://ikea-lp.netlify.app/" />
+        <meta property="og:image" content="https://i.imgur.com/43NFIi5.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="https://i.imgur.com/43NFIi5.png" />
+        <meta name="twitter:site" content="@phillzou" />
+        <meta
+          name="twitter:title"
+          content="IKEA Low Price Products | 宜家低价好物"
+        />
+        <meta name="twitter:description" content={SiteDesc} />
       </Head>
 
       <Logo />
