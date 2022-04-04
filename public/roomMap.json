@@ -382,6 +382,11 @@
     { "rankingId": "FOURTH_CATALOG_45815_SALES_QUANTITY", "subTitle": "儿童餐椅" }
   ],
   "home-office": [
+    {"rankingId": "FOURTH_CATALOG_47067_SALES_QUANTITY", "subTitle": "电竞椅"},
+    {"rankingId": "FOURTH_CATALOG_20653_SALES_QUANTITY", "subTitle": "书桌椅"},
+    {"rankingId": "FOURTH_CATALOG_20654_SALES_QUANTITY", "subTitle": "办公椅"},
+    {"rankingId": "FOURTH_CATALOG_24715_SALES_QUANTITY", "subTitle": "儿童书桌"},
+    {"rankingId": "FOURTH_CATALOG_47068_SALES_QUANTITY", "subTitle": "会议椅"},
     { "rankingId": "FOURTH_CATALOG_20606_SALES_QUANTITY", "subTitle": "食品储存罐" },
     { "rankingId": "THIRD_CATALOG_10382_SALES_QUANTITY", "subTitle": "书柜" },
     { "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY", "subTitle": "衣服储物盒" },
