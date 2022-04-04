@@ -81,7 +81,7 @@ export default function Home() {
       </main>
 
       <footer className="flex justify-center text-gray-700 py-4 font-bold dark:text-white">
-        <a href="https://github.com/mayandev" className="hover:underline mx-3">
+        <a href="https://github.com/mayandev/ikea-low-price" className="hover:underline mx-3">
           GitHub
         </a>
         {" · "}
