@@ -3,20 +3,6 @@ name: Sync product data
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push events but only for the master branch
-  push:
-    branches: [ master ]
-    paths:
-      - .github/workflows/*.yml
-      - package.json
-      - yarn.lock
-      - next.config.js
-      - tailwind.config.js
-      - public/*/*.*
-      - src/**.ts
-      - src/**.tsx
-      - src/**.css
-      - scripts/*.js
-
   schedule:
     - cron: "0 0 * * 0"
 
