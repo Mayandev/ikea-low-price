@@ -13,6 +13,7 @@ export const CategoryMap = {
   outdoor: "户外",
   laundry: "洗衣房",
   balcony: "阳台",
+  other: "其他",
 } as { [key in RoomType]: string };
 
 export const CategoryColorMap = {
@@ -28,4 +29,5 @@ export const CategoryColorMap = {
   outdoor: "#e04ed6",
   laundry: "#349f44",
   balcony: "#cf7474",
+  other: "#1a52bf",
 } as { [key in RoomType]: string };

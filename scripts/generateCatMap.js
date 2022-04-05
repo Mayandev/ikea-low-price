@@ -1,5 +1,6 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
+const catalog = require('../public/catalog.json');
 
 const Categories = [
   { category: 'living-room', name: '客厅', maxPage: 15 },
@@ -39,7 +40,59 @@ async function getCateByRoom() {
     });
     return { ...acc, ...cur };
   }, {});
-  fs.writeFileSync(`${__dirname }/../public/roomMap.json`, JSON.stringify(cateRoomMap));
+  fs.writeFileSync(`${__dirname}/../public/roomMap.json`, JSON.stringify(cateRoomMap));
 }
 
-getCateByRoom();
+// const getAllSubcategories = catalog => {
+//   const map = new Map();
+//   const recursive = catalog => {
+//     for (const category of catalog) {
+//       if (category.subCategories.length > 0) {
+//         recursive(category.subCategories);
+//       } else {
+//         // just get the last child & filter duplicates
+//         if (!map.has(category.id)) {
+//           map.set(category.id, category);
+//         }
+//       }
+//     }
+//   };
+//   recursive(catalog);
+//   const categories = [...map.values()];
+//   return categories;
+// };
+
+function flatMap(data, seq) {
+  const arr = data.map(category => category.subCategories).flat();
+  const obj = new Map();
+  console.log(arr.length);
+  const uniqueArr = arr.reduce((acc, cur) => {
+    if (obj.has(cur.id)) {
+      return acc;
+    } else {
+      obj.set(cur.id, cur);
+      return acc.concat(cur);
+    }
+  }, []);
+  console.log(uniqueArr.length);
+  const map = uniqueArr.map(({ id, name }) => ({ rankingId: `${seq}_CATALOG_${id}_SALES_QUANTITY`, subTitle: name }));
+  return [arr, map];
+}
+
+function generateSubCate() {
+  const [secondaryArr, secondaryMapArr] = flatMap(catalog, 'SECONDARY');
+  const [thirdArr, thirdMapArr] = flatMap(secondaryArr, 'THIRD');
+  const [fourthArr, fourthMapArr] = flatMap(thirdArr, 'FOURTH');
+  fs.writeFileSync(
+    `${__dirname}/../public/catalogMap.json`,
+    JSON.stringify({
+      secondaryMapArr,
+      thirdMapArr,
+      fourthMapArr,
+    })
+  );
+}
+
+generateSubCate();
+
+// getCateByRoom();

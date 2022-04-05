@@ -12,7 +12,8 @@ export type RoomType =
   | "hallway"
   | "outdoor"
   | "laundry"
-  | "balcony";
+  | "balcony"
+  | "other";
 
 export type RankData = {
   title: string;
@@ -86,6 +87,7 @@ export type ProductTag = {
 
 export type ProductContextType = {
   category: RoomType;
+  isDark: boolean;
   setCategory: Dispatch<SetStateAction<RoomType>>;
 };
 

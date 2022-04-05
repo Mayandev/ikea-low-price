@@ -5,12 +5,15 @@ import Image from "next/image";
 import { useContext } from "react";
 
 export default function Banner() {
-  const { category } = useContext(ProductContext);
+  const { category, isDark } = useContext(ProductContext);
   const bgColor = CategoryColorMap[category as RoomType];
+
   return (
     <div
-      className={`h-72 sm:h-44 sm:rounded-md bg-[#]  w-full dark:bg-dark-black dark:sm:bg-dark-black bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]
-        bg-[${bgColor}]`}
+      className={
+        "h-72 sm:h-44 sm:rounded-md  w-full dark:bg-dark-black dark:sm:bg-dark-black bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]"
+      }
+      style={{ backgroundColor: `${isDark ? "#35363a" : bgColor}` }}
     >
       <div className="sm:hidden absolute bottom-0 left-0 h-24 w-full bg-gradient-to-b from-ikea-orange/0 to-[#f2f2f2] dark:to-dark-black" />
       <div className="h-40 relative text-white flex flex-col items-center justify-end ">

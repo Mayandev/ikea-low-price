@@ -16,9 +16,6 @@ type CardProps = {
 };
 
 function Card({ title, description, image, price, id, seoSlug }: CardProps) {
-  const myLoader = ({ src, width, quality }: ImageLoaderProps) =>
-    `https://images.example.com/${src}?w=${width}&q=${quality || 75}`;
-
   return (
     <a
       href={`https://www.ikea.cn/cn/zh/p/${seoSlug}-${id}`}
@@ -53,6 +50,7 @@ export default function CardList() {
     () => getProducts(category as RoomType),
     [category]
   );
+
   return (
     <div className="mt-6 px-5 relative sm:px-0 sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-8">
       {productList.map(

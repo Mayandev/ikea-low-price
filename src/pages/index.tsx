@@ -9,6 +9,7 @@ import { CategoryColorMap } from "@/const";
 
 export const ProductContext = createContext<Partial<ProductContextType>>({
   category: "all",
+  isDark: false,
 });
 
 const SiteTitle = "IKEA Low Price Products | 宜家低价好物";
@@ -79,7 +80,9 @@ export default function Home() {
       <Logo />
 
       <main className="sm:px-16 xl:px-48 2xl:px-64">
-        <ProductContext.Provider value={{ category, setCategory }}>
+        <ProductContext.Provider
+          value={{ category, setCategory, isDark: isDarkMode }}
+        >
           <Banner />
           <Category />
           <CardList />
