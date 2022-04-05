@@ -17,7 +17,7 @@ export const CategoryMap = {
 } as { [key in RoomType]: string };
 
 export const CategoryColorMap = {
-  all: "#e04e4e",
+  all: "#4b82ee",
   "living-room": "#ffd800",
   "dining-room": "#1a52bf",
   kitchen: "#5de04e",

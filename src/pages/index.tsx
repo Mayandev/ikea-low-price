@@ -13,7 +13,8 @@ export const ProductContext = createContext<Partial<ProductContextType>>({
 });
 
 const SiteTitle = "IKEA Low Price Products | 宜家低价好物";
-const SiteDesc = "IKEA Low Price Products | 宜家低价好物；宜家折扣价商品；宜家特价榜";
+const SiteDesc =
+  "IKEA Low Price Products | 宜家低价好物；宜家折扣价商品；宜家特价榜";
 
 export default function Home() {
   const [category, setCategory] = useState<RoomType>("all");
