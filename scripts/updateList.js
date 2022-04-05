@@ -2,13 +2,14 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const pLimit = require('p-limit');
 const roomMap = require('../public/roomMap.json');
-const limit = pLimit(20);
+const limit = pLimit(5);
 
 const run = async () => {
   // const categories = getAllSubcategories(catalog);
   const categories = Object.values(roomMap)
     .map(ranks => ranks.map(({ rankingId }) => rankingId))
     .flat();
+  console.log(categories.length);
   const uniqueCategories = [...new Set(categories)];
   const data = await Promise.all(
     uniqueCategories.map(async category =>
