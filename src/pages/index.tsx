@@ -99,7 +99,7 @@ export default function Home() {
         </a>
         {" · "}
         <a
-          href="https://www.figma.com/file/VbgWVwF0CuzZTtjSaR6iho/IKEA-Low-Price"
+          href="https://www.figma.com/file/h4Hk102P1yG8ledPaEcp7Y/IKEA-Low-Price"
           className="hover:underline mx-3"
         >
           设计稿
