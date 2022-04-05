@@ -25,7 +25,7 @@ export default function Banner() {
         <div className="font-bold text-3xl mt-1">
           {CategoryMap[category as RoomType]}
         </div>
-        <div className="text-white text-xs mt-8">
+        <div className="text-white text-xs mt-8 font-normal">
           数据来自宜家官网 | 每周更新
         </div>
       </div>
