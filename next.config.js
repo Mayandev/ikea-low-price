@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ['www.ikea.cn']
+    domains: ['www.ikea.cn'],
   }
 };

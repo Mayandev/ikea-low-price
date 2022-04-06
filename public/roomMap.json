@@ -1,0 +1,5255 @@
+{
+  "living-room": [
+      {
+          "rankingId": "FOURTH_CATALOG_700218_SALES_QUANTITY",
+          "subTitle": "遮光窗帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700219_SALES_QUANTITY",
+          "subTitle": "半遮光窗帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700220_SALES_QUANTITY",
+          "subTitle": "滤光窗帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18892_SALES_QUANTITY",
+          "subTitle": "窗帘杆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18893_SALES_QUANTITY",
+          "subTitle": "窗帘轨道系统"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18894_SALES_QUANTITY",
+          "subTitle": "窗帘线"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10661_SALES_QUANTITY",
+          "subTitle": "布艺沙发"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10662_SALES_QUANTITY",
+          "subTitle": "皮革沙发"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16238_SALES_QUANTITY",
+          "subTitle": "组合沙发"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20926_SALES_QUANTITY",
+          "subTitle": "沙发脚凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700299_SALES_QUANTITY",
+          "subTitle": "沙发配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10664_SALES_QUANTITY",
+          "subTitle": "沙发套和扶手椅套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15358_SALES_QUANTITY",
+          "subTitle": "布艺自由组合沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10670_SALES_QUANTITY",
+          "subTitle": "布艺三人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10671_SALES_QUANTITY",
+          "subTitle": "布艺转角沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47388_SALES_QUANTITY",
+          "subTitle": "布艺带贵妃椅沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10668_SALES_QUANTITY",
+          "subTitle": "布艺双人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10693_SALES_QUANTITY",
+          "subTitle": "皮革转角沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10690_SALES_QUANTITY",
+          "subTitle": "皮革双人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47391_SALES_QUANTITY",
+          "subTitle": "皮革带贵妃椅沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_35191_SALES_QUANTITY",
+          "subTitle": "皮革三人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16235_SALES_QUANTITY",
+          "subTitle": "皮革模块沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_35190_SALES_QUANTITY",
+          "subTitle": "人造革双人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10691_SALES_QUANTITY",
+          "subTitle": "真皮三人沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_31786_SALES_QUANTITY",
+          "subTitle": "自由组合沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_31785_SALES_QUANTITY",
+          "subTitle": "沙发和扶手椅支腿"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_57536_SALES_QUANTITY",
+          "subTitle": "沙发靠垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_42249_SALES_QUANTITY",
+          "subTitle": "沙发头枕和配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_38190_SALES_QUANTITY",
+          "subTitle": "VIMLE 维姆勒 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10978_SALES_QUANTITY",
+          "subTitle": "EKTORP 爱克托 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39516_SALES_QUANTITY",
+          "subTitle": "GRÖNLID 格罗恩里德 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18705_SALES_QUANTITY",
+          "subTitle": "KIVIK 奇维 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47990_SALES_QUANTITY",
+          "subTitle": "其他沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_22275_SALES_QUANTITY",
+          "subTitle": "SÖDERHAMN 索德汉 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_35030_SALES_QUANTITY",
+          "subTitle": "VALLENTUNA 瓦伦图 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10984_SALES_QUANTITY",
+          "subTitle": "KLIPPAN 克利帕 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_28818_SALES_QUANTITY",
+          "subTitle": "STOCKSUND 斯托桑 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39515_SALES_QUANTITY",
+          "subTitle": "LIDHULT 利胡特 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_37652_SALES_QUANTITY",
+          "subTitle": "FÄRLÖV 法乐福 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_33893_SALES_QUANTITY",
+          "subTitle": "NORSBORG 诺斯伯 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39519_SALES_QUANTITY",
+          "subTitle": "HOLMSUND 霍姆桑德 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_49972_SALES_QUANTITY",
+          "subTitle": "VRETSTORP 列斯托 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10983_SALES_QUANTITY",
+          "subTitle": "KARLSTAD 卡斯塔 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45724_SALES_QUANTITY",
+          "subTitle": "EKOLSUND 艾克桑 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47443_SALES_QUANTITY",
+          "subTitle": "VINLIDEN 温里德恩 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39521_SALES_QUANTITY",
+          "subTitle": "KOARP 克阿普 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_54993_SALES_QUANTITY",
+          "subTitle": "BACKSÄLEN 巴克赛 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_54994_SALES_QUANTITY",
+          "subTitle": "PÄRUP 派如普 沙发套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20926_SALES_QUANTITY",
+          "subTitle": "沙发脚凳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_35184_SALES_QUANTITY",
+          "subTitle": "皮革单人沙发"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_55036_SALES_QUANTITY",
+          "subTitle": "家具组合"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_fu002_SALES_QUANTITY",
+          "subTitle": "椅子"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_30454_SALES_QUANTITY",
+          "subTitle": "餐边柜和长几"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_fu003_SALES_QUANTITY",
+          "subTitle": "沙发"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st002_SALES_QUANTITY",
+          "subTitle": "书柜和置物架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_fu004_SALES_QUANTITY",
+          "subTitle": "桌子-书桌和餐桌"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st003_SALES_QUANTITY",
+          "subTitle": "橱柜和展示柜"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10475_SALES_QUANTITY",
+          "subTitle": "电视和多媒体家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st004_SALES_QUANTITY",
+          "subTitle": "抽屉柜和抽屉框架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10776_SALES_QUANTITY",
+          "subTitle": "花瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10382_SALES_QUANTITY",
+          "subTitle": "书柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10451_SALES_QUANTITY",
+          "subTitle": "抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10410_SALES_QUANTITY",
+          "subTitle": "展示柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10797_SALES_QUANTITY",
+          "subTitle": "墙壁和工作台面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10471_SALES_QUANTITY",
+          "subTitle": "推车和岛台"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10783_SALES_QUANTITY",
+          "subTitle": "香型蜡烛"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15951_SALES_QUANTITY",
+          "subTitle": "佐料和调味品架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_11465_SALES_QUANTITY",
+          "subTitle": "搁架单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16295_SALES_QUANTITY",
+          "subTitle": "宜家购物袋和推车"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10698_SALES_QUANTITY",
+          "subTitle": "门垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20496_SALES_QUANTITY",
+          "subTitle": "干草和香味混合植物"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_46053_SALES_QUANTITY",
+          "subTitle": "BESTÅ 贝达系列"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_37900_SALES_QUANTITY",
+          "subTitle": "墙储物"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18902_SALES_QUANTITY",
+          "subTitle": "靠垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10731_SALES_QUANTITY",
+          "subTitle": "落地灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10692_SALES_QUANTITY",
+          "subTitle": "大号和中号地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10650_SALES_QUANTITY",
+          "subTitle": "毛巾架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10785_SALES_QUANTITY",
+          "subTitle": "壁式和台式时钟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18746_SALES_QUANTITY",
+          "subTitle": "相框"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10456_SALES_QUANTITY",
+          "subTitle": "鞋柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10784_SALES_QUANTITY",
+          "subTitle": "蜡烛台"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10454_SALES_QUANTITY",
+          "subTitle": "鞋架和鞋柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10409_SALES_QUANTITY",
+          "subTitle": "橱柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10574_SALES_QUANTITY",
+          "subTitle": "布告板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10810_SALES_QUANTITY",
+          "subTitle": "电视柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20617_SALES_QUANTITY",
+          "subTitle": "挂钩"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20542_SALES_QUANTITY",
+          "subTitle": "椅垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20481_SALES_QUANTITY",
+          "subTitle": "儿童挂钩和墙面收纳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_49140_SALES_QUANTITY",
+          "subTitle": "SMÅSTAD 斯玛斯塔 系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16255_SALES_QUANTITY",
+          "subTitle": "旅行配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16215_SALES_QUANTITY",
+          "subTitle": "垃圾桶和废纸篓"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34470_SALES_QUANTITY",
+          "subTitle": "垃圾分类桶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10786_SALES_QUANTITY",
+          "subTitle": "闹钟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24858_SALES_QUANTITY",
+          "subTitle": "墙面镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55012_SALES_QUANTITY",
+          "subTitle": "方格置物架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10689_SALES_QUANTITY",
+          "subTitle": "长条地毯和小号地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24859_SALES_QUANTITY",
+          "subTitle": "大镜子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20528_SALES_QUANTITY",
+          "subTitle": "毯子和休闲毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10782_SALES_QUANTITY",
+          "subTitle": "无味蜡烛"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20660_SALES_QUANTITY",
+          "subTitle": "完整墙面搁板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18903_SALES_QUANTITY",
+          "subTitle": "靠垫套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20502_SALES_QUANTITY",
+          "subTitle": "工作灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_11703_SALES_QUANTITY",
+          "subTitle": "IVAR 伊娃 系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49770_SALES_QUANTITY",
+          "subTitle": "衣架/鞋架组合单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16308_SALES_QUANTITY",
+          "subTitle": "装饰碗碟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20541_SALES_QUANTITY",
+          "subTitle": "桌布与桌旗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10788_SALES_QUANTITY",
+          "subTitle": "装饰挂画"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16200_SALES_QUANTITY",
+          "subTitle": "置物架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20491_SALES_QUANTITY",
+          "subTitle": "提灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16305_SALES_QUANTITY",
+          "subTitle": "展示搁板和图片壁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10787_SALES_QUANTITY",
+          "subTitle": "海报"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24861_SALES_QUANTITY",
+          "subTitle": "装饰镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_14885_SALES_QUANTITY",
+          "subTitle": "视听组合柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49769_SALES_QUANTITY",
+          "subTitle": "衣帽架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16195_SALES_QUANTITY",
+          "subTitle": "电线整理和配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10664_SALES_QUANTITY",
+          "subTitle": "沙发套和扶手椅套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10789_SALES_QUANTITY",
+          "subTitle": "拼贴相框"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20926_SALES_QUANTITY",
+          "subTitle": "沙发脚凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18773_SALES_QUANTITY",
+          "subTitle": "儿童灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46081_SALES_QUANTITY",
+          "subTitle": "网篮式抽屉框架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_55015_SALES_QUANTITY",
+          "subTitle": "方格型搁板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47359_SALES_QUANTITY",
+          "subTitle": "躺椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24860_SALES_QUANTITY",
+          "subTitle": "圆镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48006_SALES_QUANTITY",
+          "subTitle": "带镜子衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20544_SALES_QUANTITY",
+          "subTitle": "羊皮和牛皮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16296_SALES_QUANTITY",
+          "subTitle": "单人沙发床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20543_SALES_QUANTITY",
+          "subTitle": "圆形地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43632_SALES_QUANTITY",
+          "subTitle": "壁柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16246_SALES_QUANTITY",
+          "subTitle": "长几"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20500_SALES_QUANTITY",
+          "subTitle": "镜柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20499_SALES_QUANTITY",
+          "subTitle": "化妆放大镜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10657_SALES_QUANTITY",
+          "subTitle": "卫生纸卷架和支架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39267_SALES_QUANTITY",
+          "subTitle": "手工地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18695_SALES_QUANTITY",
+          "subTitle": "婴儿毯子和被子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21959_SALES_QUANTITY",
+          "subTitle": "户外沙发"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20615_SALES_QUANTITY",
+          "subTitle": "浴室搁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16254_SALES_QUANTITY",
+          "subTitle": "旅行袋"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18775_SALES_QUANTITY",
+          "subTitle": "儿童床配件和床篷"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24831_SALES_QUANTITY",
+          "subTitle": "艺术卡片"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48931_SALES_QUANTITY",
+          "subTitle": "化妆品收纳袋"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48927_SALES_QUANTITY",
+          "subTitle": "浴室配件套装"
+      }
+  ],
+  "dining-room": [
+      {
+          "rankingId": "THIRD_CATALOG_15937_SALES_QUANTITY",
+          "subTitle": "食品收纳与储存罐"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20538_SALES_QUANTITY",
+          "subTitle": "餐桌用纺织品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20606_SALES_QUANTITY",
+          "subTitle": "食品储存罐"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18864_SALES_QUANTITY",
+          "subTitle": "碗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16045_SALES_QUANTITY",
+          "subTitle": "杯子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15927_SALES_QUANTITY",
+          "subTitle": "烹饪配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_42924_SALES_QUANTITY",
+          "subTitle": "野餐/户外休闲"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20619_SALES_QUANTITY",
+          "subTitle": "碗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700194_SALES_QUANTITY",
+          "subTitle": "抹布&海绵"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15951_SALES_QUANTITY",
+          "subTitle": "佐料和调味品架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700193_SALES_QUANTITY",
+          "subTitle": "洗碗刷"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18866_SALES_QUANTITY",
+          "subTitle": "餐具套装"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700196_SALES_QUANTITY",
+          "subTitle": "滤水架及配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18862_SALES_QUANTITY",
+          "subTitle": "深盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18869_SALES_QUANTITY",
+          "subTitle": "杯子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15947_SALES_QUANTITY",
+          "subTitle": "砧板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15950_SALES_QUANTITY",
+          "subTitle": "瓶子和罐子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10412_SALES_QUANTITY",
+          "subTitle": "餐具柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18861_SALES_QUANTITY",
+          "subTitle": "盘子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18871_SALES_QUANTITY",
+          "subTitle": "水壶和玻璃水瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18863_SALES_QUANTITY",
+          "subTitle": "餐盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24262_SALES_QUANTITY",
+          "subTitle": "水槽附件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45853_SALES_QUANTITY",
+          "subTitle": "儿童碗盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20539_SALES_QUANTITY",
+          "subTitle": "餐垫与杯垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20622_SALES_QUANTITY",
+          "subTitle": "咖啡机和配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18751_SALES_QUANTITY",
+          "subTitle": "吊灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16048_SALES_QUANTITY",
+          "subTitle": "托盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20620_SALES_QUANTITY",
+          "subTitle": "保温瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20645_SALES_QUANTITY",
+          "subTitle": "烘焙工具和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_22663_SALES_QUANTITY",
+          "subTitle": "特殊玻璃器皿"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45851_SALES_QUANTITY",
+          "subTitle": "儿童餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18852_SALES_QUANTITY",
+          "subTitle": "围裙"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15928_SALES_QUANTITY",
+          "subTitle": "烤箱器皿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20537_SALES_QUANTITY",
+          "subTitle": "锅垫&烤箱手套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20561_SALES_QUANTITY",
+          "subTitle": "餐巾纸"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18851_SALES_QUANTITY",
+          "subTitle": "茶巾"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18872_SALES_QUANTITY",
+          "subTitle": "杯具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15949_SALES_QUANTITY",
+          "subTitle": "测量工具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20621_SALES_QUANTITY",
+          "subTitle": "茶壶和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16047_SALES_QUANTITY",
+          "subTitle": "上菜用的盘子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20541_SALES_QUANTITY",
+          "subTitle": "桌布与桌旗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18870_SALES_QUANTITY",
+          "subTitle": "酒杯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18867_SALES_QUANTITY",
+          "subTitle": "上菜用刀叉餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20562_SALES_QUANTITY",
+          "subTitle": "餐巾纸架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20864_SALES_QUANTITY",
+          "subTitle": "吧台椅凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20643_SALES_QUANTITY",
+          "subTitle": "罐子和膜具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19144_SALES_QUANTITY",
+          "subTitle": "餐馆椅子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20862_SALES_QUANTITY",
+          "subTitle": "吧桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19143_SALES_QUANTITY",
+          "subTitle": "餐馆桌子"
+      }
+  ],
+  "kitchen": [
+
+    {
+      "rankingId": "THIRD_CATALOG_20822_SALES_QUANTITY",
+      "subTitle": "冰箱系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_20812_SALES_QUANTITY",
+      "subTitle": "灶具系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_20819_SALES_QUANTITY",
+      "subTitle": "油烟机系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_20810_SALES_QUANTITY",
+      "subTitle": "嵌入式烤箱系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_20815_SALES_QUANTITY",
+      "subTitle": "微波炉系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_20825_SALES_QUANTITY",
+      "subTitle": "洗碗机系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_49968_SALES_QUANTITY",
+      "subTitle": "小电器系列"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_10482_SALES_QUANTITY",
+      "subTitle": "混合型水龙头"
+  },
+  {
+      "rankingId": "THIRD_CATALOG_53253_SALES_QUANTITY",
+      "subTitle": "水槽配件"
+  },
+    {
+      "rankingId": "FOURTH_CATALOG_20824_SALES_QUANTITY",
+      "subTitle": "独立式冰箱"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_20823_SALES_QUANTITY",
+      "subTitle": "嵌入式冰箱"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_20813_SALES_QUANTITY",
+      "subTitle": "电磁炉"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_20814_SALES_QUANTITY",
+      "subTitle": "燃气灶"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_33507_SALES_QUANTITY",
+      "subTitle": "油烟机"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_20821_SALES_QUANTITY",
+      "subTitle": "油烟机过滤器"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_33515_SALES_QUANTITY",
+      "subTitle": "微波炉烤箱"
+  },
+  {
+      "rankingId": "FOURTH_CATALOG_33516_SALES_QUANTITY",
+      "subTitle": "微烤一体机"
+  },
+      {
+          "rankingId": "THIRD_CATALOG_21825_SALES_QUANTITY",
+          "subTitle": "餐桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19143_SALES_QUANTITY",
+          "subTitle": "餐馆桌子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10412_SALES_QUANTITY",
+          "subTitle": "餐具柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_25219_SALES_QUANTITY",
+          "subTitle": "餐椅和椅子配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20539_SALES_QUANTITY",
+          "subTitle": "餐垫与杯垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_57297_SALES_QUANTITY",
+          "subTitle": "二人餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21826_SALES_QUANTITY",
+          "subTitle": "四人餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21827_SALES_QUANTITY",
+          "subTitle": "六人餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47747_SALES_QUANTITY",
+          "subTitle": "八人餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21828_SALES_QUANTITY",
+          "subTitle": "十人餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21829_SALES_QUANTITY",
+          "subTitle": "可伸缩餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_30572_SALES_QUANTITY",
+          "subTitle": "餐桌桌面和底架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_25221_SALES_QUANTITY",
+          "subTitle": "软垫式餐椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_25220_SALES_QUANTITY",
+          "subTitle": "餐椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34006_SALES_QUANTITY",
+          "subTitle": "餐椅底架和椅座"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_23613_SALES_QUANTITY",
+          "subTitle": "厨房门板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_23608_SALES_QUANTITY",
+          "subTitle": "厨房壁柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_23609_SALES_QUANTITY",
+          "subTitle": "厨房高柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_23610_SALES_QUANTITY",
+          "subTitle": "厨房电器高柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48993_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49318_SALES_QUANTITY",
+          "subTitle": "KNOXHULT 诺克胡 厨房系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_ka005_SALES_QUANTITY",
+          "subTitle": "METOD 米多 厨房系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_ka004_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48977_SALES_QUANTITY",
+          "subTitle": "KNOXHULT 诺克胡 单元式厨房"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48985_SALES_QUANTITY",
+          "subTitle": "SUNNERSTA 苏纳思 单元式厨房"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24259_SALES_QUANTITY",
+          "subTitle": "厨房垃圾桶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24263_SALES_QUANTITY",
+          "subTitle": "厨房水槽"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16282_SALES_QUANTITY",
+          "subTitle": "厨房照明"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24264_SALES_QUANTITY",
+          "subTitle": "厨房操作台面"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24261_SALES_QUANTITY",
+          "subTitle": "厨房水龙头和水槽"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_50007_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房组合"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_50009_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_50010_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房台面"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_50374_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房电器"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48991_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房搭配"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_50008_SALES_QUANTITY",
+          "subTitle": "ENHET 安纳特 厨房照明"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_49318_SALES_QUANTITY",
+          "subTitle": "KNOXHULT 诺克胡 厨房系列"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48978_SALES_QUANTITY",
+          "subTitle": "KNOXHULT 诺克胡 完整单元式厨房"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48986_SALES_QUANTITY",
+          "subTitle": "SUNNERSTA 苏纳思 完整单元式厨房"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20606_SALES_QUANTITY",
+          "subTitle": "食品储存罐"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15950_SALES_QUANTITY",
+          "subTitle": "瓶子和罐子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15951_SALES_QUANTITY",
+          "subTitle": "佐料和调味品架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15952_SALES_QUANTITY",
+          "subTitle": "酒架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18864_SALES_QUANTITY",
+          "subTitle": "碗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_31781_SALES_QUANTITY",
+          "subTitle": "餐具组"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18861_SALES_QUANTITY",
+          "subTitle": "盘子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18863_SALES_QUANTITY",
+          "subTitle": "餐盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18862_SALES_QUANTITY",
+          "subTitle": "深盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16048_SALES_QUANTITY",
+          "subTitle": "托盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20619_SALES_QUANTITY",
+          "subTitle": "上菜用碗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16047_SALES_QUANTITY",
+          "subTitle": "上菜用的盘子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16045_SALES_QUANTITY",
+          "subTitle": "杯子和马克杯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20620_SALES_QUANTITY",
+          "subTitle": "保温瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20622_SALES_QUANTITY",
+          "subTitle": "咖啡机和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20621_SALES_QUANTITY",
+          "subTitle": "茶壶和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20624_SALES_QUANTITY",
+          "subTitle": "煎锅和炒锅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20633_SALES_QUANTITY",
+          "subTitle": "锅和深锅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15928_SALES_QUANTITY",
+          "subTitle": "烤箱器皿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15927_SALES_QUANTITY",
+          "subTitle": "烹饪配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18869_SALES_QUANTITY",
+          "subTitle": "玻璃杯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18871_SALES_QUANTITY",
+          "subTitle": "水壶和玻璃水瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18870_SALES_QUANTITY",
+          "subTitle": "酒杯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18872_SALES_QUANTITY",
+          "subTitle": "杯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_22663_SALES_QUANTITY",
+          "subTitle": "特殊玻璃器皿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20647_SALES_QUANTITY",
+          "subTitle": "厨具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15935_SALES_QUANTITY",
+          "subTitle": "搅拌和测量工具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700196_SALES_QUANTITY",
+          "subTitle": "滤水架及配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24262_SALES_QUANTITY",
+          "subTitle": "水槽附件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700194_SALES_QUANTITY",
+          "subTitle": "抹布&海绵"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700193_SALES_QUANTITY",
+          "subTitle": "洗碗刷"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700195_SALES_QUANTITY",
+          "subTitle": "皂液器"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18866_SALES_QUANTITY",
+          "subTitle": "餐具套装"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18867_SALES_QUANTITY",
+          "subTitle": "上菜用刀叉餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15947_SALES_QUANTITY",
+          "subTitle": "砧板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15946_SALES_QUANTITY",
+          "subTitle": "刀具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18849_SALES_QUANTITY",
+          "subTitle": "尖锐用具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20643_SALES_QUANTITY",
+          "subTitle": "罐子和膜具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20645_SALES_QUANTITY",
+          "subTitle": "烘焙工具和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15949_SALES_QUANTITY",
+          "subTitle": "测量工具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20669_SALES_QUANTITY",
+          "subTitle": "搅拌碗"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20561_SALES_QUANTITY",
+          "subTitle": "餐巾纸"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20562_SALES_QUANTITY",
+          "subTitle": "餐巾纸架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20494_SALES_QUANTITY",
+          "subTitle": "植物支撑架和移动用具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_53255_SALES_QUANTITY",
+          "subTitle": "烧烤/野餐"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_53256_SALES_QUANTITY",
+          "subTitle": "夏日聚会小食"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_15937_SALES_QUANTITY",
+          "subTitle": "食品收纳与储存罐"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18860_SALES_QUANTITY",
+          "subTitle": "餐具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16043_SALES_QUANTITY",
+          "subTitle": "上菜用具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16044_SALES_QUANTITY",
+          "subTitle": "咖啡和茶"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_kt003_SALES_QUANTITY",
+          "subTitle": "锅具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18868_SALES_QUANTITY",
+          "subTitle": "玻璃器皿和水壶"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_kt002_SALES_QUANTITY",
+          "subTitle": "烹饪用具和烘培工具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_15938_SALES_QUANTITY",
+          "subTitle": "洗碗用具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18865_SALES_QUANTITY",
+          "subTitle": "刀叉餐具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_15934_SALES_QUANTITY",
+          "subTitle": "刀具和砧板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20636_SALES_QUANTITY",
+          "subTitle": "烘焙器具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20560_SALES_QUANTITY",
+          "subTitle": "餐巾纸和纸巾架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18714_SALES_QUANTITY",
+          "subTitle": "儿童厨具和餐具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20609_SALES_QUANTITY",
+          "subTitle": "清洁配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_15938_SALES_QUANTITY",
+          "subTitle": "洗完用具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_700293_SALES_QUANTITY",
+          "subTitle": "厨房门板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_700292_SALES_QUANTITY",
+          "subTitle": "厨房柜体"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_ka003_SALES_QUANTITY",
+          "subTitle": "厨房厨柜系列"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24255_SALES_QUANTITY",
+          "subTitle": "厨柜内部收纳"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16200_SALES_QUANTITY",
+          "subTitle": "置物架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20676_SALES_QUANTITY",
+          "subTitle": "厨房墙面收纳"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24264_SALES_QUANTITY",
+          "subTitle": "厨房操作台面"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_ka002_SALES_QUANTITY",
+          "subTitle": "厨房电器"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10471_SALES_QUANTITY",
+          "subTitle": "推车和岛台"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16298_SALES_QUANTITY",
+          "subTitle": "拉手和拉钮"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16282_SALES_QUANTITY",
+          "subTitle": "厨房照明"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24261_SALES_QUANTITY",
+          "subTitle": "厨房水龙头和水槽"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_19121_SALES_QUANTITY",
+          "subTitle": "墙面板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_22957_SALES_QUANTITY",
+          "subTitle": "标配厨房"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15927_SALES_QUANTITY",
+          "subTitle": "烹饪配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10471_SALES_QUANTITY",
+          "subTitle": "推车和岛台"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20677_SALES_QUANTITY",
+          "subTitle": "墙面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24257_SALES_QUANTITY",
+          "subTitle": "抽屉隔段"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24259_SALES_QUANTITY",
+          "subTitle": "厨房垃圾桶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_15928_SALES_QUANTITY",
+          "subTitle": "烤箱器皿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20678_SALES_QUANTITY",
+          "subTitle": "厨房架子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49968_SALES_QUANTITY",
+          "subTitle": "小电器系列"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24261_SALES_QUANTITY",
+          "subTitle": "厨房水龙头和水槽"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16282_SALES_QUANTITY",
+          "subTitle": "厨房照明"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10482_SALES_QUANTITY",
+          "subTitle": "混合型水龙头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24263_SALES_QUANTITY",
+          "subTitle": "厨房水槽"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_33547_SALES_QUANTITY",
+          "subTitle": "台面配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_53253_SALES_QUANTITY",
+          "subTitle": "水槽配件"
+      }
+  ],
+  "bedroom": [
+      {
+          "rankingId": "THIRD_CATALOG_48005_SALES_QUANTITY",
+          "subTitle": "平开门衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43635_SALES_QUANTITY",
+          "subTitle": "滑门衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43634_SALES_QUANTITY",
+          "subTitle": "开放式衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48007_SALES_QUANTITY",
+          "subTitle": "门厅衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48006_SALES_QUANTITY",
+          "subTitle": "带镜子衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43631_SALES_QUANTITY",
+          "subTitle": "独立衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43633_SALES_QUANTITY",
+          "subTitle": "步入式衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43636_SALES_QUANTITY",
+          "subTitle": "转角衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55004_SALES_QUANTITY",
+          "subTitle": "洗衣配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48925_SALES_QUANTITY",
+          "subTitle": "洗衣柜和搁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20601_SALES_QUANTITY",
+          "subTitle": "洗衣篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20602_SALES_QUANTITY",
+          "subTitle": "晾衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20608_SALES_QUANTITY",
+          "subTitle": "烫衣板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20618_SALES_QUANTITY",
+          "subTitle": "衣架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10459_SALES_QUANTITY",
+          "subTitle": "衣服储藏件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45925_SALES_QUANTITY",
+          "subTitle": "换衣配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700221_SALES_QUANTITY",
+          "subTitle": "纱帘和网帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10702_SALES_QUANTITY",
+          "subTitle": "隔断帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_44531_SALES_QUANTITY",
+          "subTitle": "电动卷帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700222_SALES_QUANTITY",
+          "subTitle": "遮光卷帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700223_SALES_QUANTITY",
+          "subTitle": "卷帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700224_SALES_QUANTITY",
+          "subTitle": "罗马帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700225_SALES_QUANTITY",
+          "subTitle": "百叶卷帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20656_SALES_QUANTITY",
+          "subTitle": "床头柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16296_SALES_QUANTITY",
+          "subTitle": "单人沙发床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_19046_SALES_QUANTITY",
+          "subTitle": "坐卧两用床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_57538_SALES_QUANTITY",
+          "subTitle": "沙发床配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20874_SALES_QUANTITY",
+          "subTitle": "双人沙发床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16296_SALES_QUANTITY",
+          "subTitle": "单人沙发床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_19049_SALES_QUANTITY",
+          "subTitle": "高架床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_19048_SALES_QUANTITY",
+          "subTitle": "双层床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47264_SALES_QUANTITY",
+          "subTitle": "FRIHETEN 弗瑞顿 沙发床套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10992_SALES_QUANTITY",
+          "subTitle": "LYCKSELE 利克赛 沙发床套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39513_SALES_QUANTITY",
+          "subTitle": "NYHAMN 努汉姆 沙发床套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_39514_SALES_QUANTITY",
+          "subTitle": "FLOTTEBO 弗罗特博 沙发床套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10681_SALES_QUANTITY",
+          "subTitle": "床单"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10452_SALES_QUANTITY",
+          "subTitle": "衣物收纳用品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16213_SALES_QUANTITY",
+          "subTitle": "废纸篓和储物袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16274_SALES_QUANTITY",
+          "subTitle": "挂钩和衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16195_SALES_QUANTITY",
+          "subTitle": "电线整理和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10550_SALES_QUANTITY",
+          "subTitle": "储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10651_SALES_QUANTITY",
+          "subTitle": "床上用品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10659_SALES_QUANTITY",
+          "subTitle": "靠垫和靠垫套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20529_SALES_QUANTITY",
+          "subTitle": "被子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20528_SALES_QUANTITY",
+          "subTitle": "毯子和休闲毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20527_SALES_QUANTITY",
+          "subTitle": "床罩"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24824_SALES_QUANTITY",
+          "subTitle": "床垫保护垫和枕套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20533_SALES_QUANTITY",
+          "subTitle": "枕头"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24828_SALES_QUANTITY",
+          "subTitle": "弹簧床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24823_SALES_QUANTITY",
+          "subTitle": "泡沫和乳胶床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24826_SALES_QUANTITY",
+          "subTitle": "床褥"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47070_SALES_QUANTITY",
+          "subTitle": "电竞桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47067_SALES_QUANTITY",
+          "subTitle": "电竞椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55397_SALES_QUANTITY",
+          "subTitle": "电竞储物和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_56516_SALES_QUANTITY",
+          "subTitle": "电竞桌椅组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_54992_SALES_QUANTITY",
+          "subTitle": "卧室家具组合"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10680_SALES_QUANTITY",
+          "subTitle": "被套组"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20530_SALES_QUANTITY",
+          "subTitle": "聚酯纤维被和棉被"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20531_SALES_QUANTITY",
+          "subTitle": "羽绒羽毛被"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18890_SALES_QUANTITY",
+          "subTitle": "枕套"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_46083_SALES_QUANTITY",
+          "subTitle": "人体工学枕"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20534_SALES_QUANTITY",
+          "subTitle": "聚酯枕头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20535_SALES_QUANTITY",
+          "subTitle": "羽绒和羽毛枕头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20536_SALES_QUANTITY",
+          "subTitle": "记忆海绵和海绵枕头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20532_SALES_QUANTITY",
+          "subTitle": "莱赛尔纤维被"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_54990_SALES_QUANTITY",
+          "subTitle": "蚕丝被"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21960_SALES_QUANTITY",
+          "subTitle": "户外沙发组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21967_SALES_QUANTITY",
+          "subTitle": "户外餐桌椅组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19145_SALES_QUANTITY",
+          "subTitle": "餐桌椅组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_53249_SALES_QUANTITY",
+          "subTitle": "书桌椅组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46079_SALES_QUANTITY",
+          "subTitle": "浴室家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16284_SALES_QUANTITY",
+          "subTitle": "双人床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_25205_SALES_QUANTITY",
+          "subTitle": "带储物床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19037_SALES_QUANTITY",
+          "subTitle": "坐卧两用床和客厅用床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49096_SALES_QUANTITY",
+          "subTitle": "软包床架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16285_SALES_QUANTITY",
+          "subTitle": "单人床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19059_SALES_QUANTITY",
+          "subTitle": "床底收纳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10663_SALES_QUANTITY",
+          "subTitle": "沙发床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19039_SALES_QUANTITY",
+          "subTitle": "高架床和双层床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19064_SALES_QUANTITY",
+          "subTitle": "床头板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24822_SALES_QUANTITY",
+          "subTitle": "床腿"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st006_SALES_QUANTITY",
+          "subTitle": "挂钩和墙面收纳件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st005_SALES_QUANTITY",
+          "subTitle": "鞋柜和衣帽架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_tl002_SALES_QUANTITY",
+          "subTitle": "窗帘和卷帘"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10659_SALES_QUANTITY",
+          "subTitle": "靠垫和靠垫套"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20528_SALES_QUANTITY",
+          "subTitle": "毯子和休闲毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10700_SALES_QUANTITY",
+          "subTitle": "窗帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10701_SALES_QUANTITY",
+          "subTitle": "百叶窗帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18891_SALES_QUANTITY",
+          "subTitle": "窗帘杆和轨道"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_42925_SALES_QUANTITY",
+          "subTitle": "衣服/配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20542_SALES_QUANTITY",
+          "subTitle": "椅垫"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10653_SALES_QUANTITY",
+          "subTitle": "地毯"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_55002_SALES_QUANTITY",
+          "subTitle": "电竞家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_bm003_SALES_QUANTITY",
+          "subTitle": "床"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_19053_SALES_QUANTITY",
+          "subTitle": "衣柜"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10757_SALES_QUANTITY",
+          "subTitle": "图片和框架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_pp003_SALES_QUANTITY",
+          "subTitle": "植物和花"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10550_SALES_QUANTITY",
+          "subTitle": "储物盒和储物篮"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_pp004_SALES_QUANTITY",
+          "subTitle": "花盆"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20489_SALES_QUANTITY",
+          "subTitle": "镜子"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10760_SALES_QUANTITY",
+          "subTitle": "蜡烛和蜡台"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10769_SALES_QUANTITY",
+          "subTitle": "花瓶和碗"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10574_SALES_QUANTITY",
+          "subTitle": "布告板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24924_SALES_QUANTITY",
+          "subTitle": "装饰配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_25227_SALES_QUANTITY",
+          "subTitle": "纸品屋"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16309_SALES_QUANTITY",
+          "subTitle": "节日装饰"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10759_SALES_QUANTITY",
+          "subTitle": "时钟"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_42926_SALES_QUANTITY",
+          "subTitle": "家用香氛"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_tl004_SALES_QUANTITY",
+          "subTitle": "卧室纺织品"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_bm002_SALES_QUANTITY",
+          "subTitle": "床垫"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20656_SALES_QUANTITY",
+          "subTitle": "床头柜"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_19064_SALES_QUANTITY",
+          "subTitle": "床头板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_19059_SALES_QUANTITY",
+          "subTitle": "床底收纳"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24827_SALES_QUANTITY",
+          "subTitle": "床板条"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24822_SALES_QUANTITY",
+          "subTitle": "床腿"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_54992_SALES_QUANTITY",
+          "subTitle": "卧室家具组合"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_46052_SALES_QUANTITY",
+          "subTitle": "储物系列"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_st007_SALES_QUANTITY",
+          "subTitle": "储物收纳用品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20606_SALES_QUANTITY",
+          "subTitle": "食品储存罐"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10776_SALES_QUANTITY",
+          "subTitle": "花瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10451_SALES_QUANTITY",
+          "subTitle": "抽屉柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16284_SALES_QUANTITY",
+          "subTitle": "双人床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20492_SALES_QUANTITY",
+          "subTitle": "人造植物和人造花"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10797_SALES_QUANTITY",
+          "subTitle": "墙壁和工作台面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10783_SALES_QUANTITY",
+          "subTitle": "香型蜡烛"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15951_SALES_QUANTITY",
+          "subTitle": "佐料和调味品架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48005_SALES_QUANTITY",
+          "subTitle": "平开门衣柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10573_SALES_QUANTITY",
+          "subTitle": "办公桌配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10732_SALES_QUANTITY",
+          "subTitle": "台灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10698_SALES_QUANTITY",
+          "subTitle": "门垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20496_SALES_QUANTITY",
+          "subTitle": "干草和香味混合植物"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_25229_SALES_QUANTITY",
+          "subTitle": "文具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43631_SALES_QUANTITY",
+          "subTitle": "独立衣柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18902_SALES_QUANTITY",
+          "subTitle": "靠垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10731_SALES_QUANTITY",
+          "subTitle": "落地灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16214_SALES_QUANTITY",
+          "subTitle": "储物袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10692_SALES_QUANTITY",
+          "subTitle": "大号和中号地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24828_SALES_QUANTITY",
+          "subTitle": "弹簧床垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10650_SALES_QUANTITY",
+          "subTitle": "毛巾架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10785_SALES_QUANTITY",
+          "subTitle": "壁式和台式时钟"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_15950_SALES_QUANTITY",
+          "subTitle": "瓶子和罐子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18746_SALES_QUANTITY",
+          "subTitle": "相框"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20656_SALES_QUANTITY",
+          "subTitle": "床头柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10784_SALES_QUANTITY",
+          "subTitle": "蜡烛台"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_19059_SALES_QUANTITY",
+          "subTitle": "床底收纳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16233_SALES_QUANTITY",
+          "subTitle": "浴室储物盒和篮子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16285_SALES_QUANTITY",
+          "subTitle": "单人床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10574_SALES_QUANTITY",
+          "subTitle": "布告板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48945_SALES_QUANTITY",
+          "subTitle": "其他浴室配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49096_SALES_QUANTITY",
+          "subTitle": "软包床架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24823_SALES_QUANTITY",
+          "subTitle": "泡沫和乳胶床垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16215_SALES_QUANTITY",
+          "subTitle": "垃圾桶和废纸篓"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_25205_SALES_QUANTITY",
+          "subTitle": "带储物床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34470_SALES_QUANTITY",
+          "subTitle": "垃圾分类桶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10786_SALES_QUANTITY",
+          "subTitle": "闹钟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24858_SALES_QUANTITY",
+          "subTitle": "墙面镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10689_SALES_QUANTITY",
+          "subTitle": "长条地毯和小号地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24859_SALES_QUANTITY",
+          "subTitle": "大镜子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20528_SALES_QUANTITY",
+          "subTitle": "毯子和休闲毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10782_SALES_QUANTITY",
+          "subTitle": "无味蜡烛"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16201_SALES_QUANTITY",
+          "subTitle": "储物篮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18903_SALES_QUANTITY",
+          "subTitle": "靠垫套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20502_SALES_QUANTITY",
+          "subTitle": "工作灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10658_SALES_QUANTITY",
+          "subTitle": "沐浴配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48007_SALES_QUANTITY",
+          "subTitle": "门厅衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24824_SALES_QUANTITY",
+          "subTitle": "床垫保护垫和枕套"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16308_SALES_QUANTITY",
+          "subTitle": "装饰碗碟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10788_SALES_QUANTITY",
+          "subTitle": "装饰挂画"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18707_SALES_QUANTITY",
+          "subTitle": "儿童衣柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18904_SALES_QUANTITY",
+          "subTitle": "内衬垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20491_SALES_QUANTITY",
+          "subTitle": "提灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16305_SALES_QUANTITY",
+          "subTitle": "展示搁板和图片壁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24826_SALES_QUANTITY",
+          "subTitle": "床褥"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10787_SALES_QUANTITY",
+          "subTitle": "海报"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24861_SALES_QUANTITY",
+          "subTitle": "装饰镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43635_SALES_QUANTITY",
+          "subTitle": "滑门衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16195_SALES_QUANTITY",
+          "subTitle": "电线整理和配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20527_SALES_QUANTITY",
+          "subTitle": "床罩"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20498_SALES_QUANTITY",
+          "subTitle": "化妆镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43634_SALES_QUANTITY",
+          "subTitle": "开放式衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18724_SALES_QUANTITY",
+          "subTitle": "儿童床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10789_SALES_QUANTITY",
+          "subTitle": "拼贴相框"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16283_SALES_QUANTITY",
+          "subTitle": "衣柜灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49079_SALES_QUANTITY",
+          "subTitle": "衣柜搁架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18777_SALES_QUANTITY",
+          "subTitle": "儿童靠垫和毯子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45781_SALES_QUANTITY",
+          "subTitle": "婴儿床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49138_SALES_QUANTITY",
+          "subTitle": "镜子带照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18773_SALES_QUANTITY",
+          "subTitle": "儿童灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46081_SALES_QUANTITY",
+          "subTitle": "网篮式抽屉框架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48943_SALES_QUANTITY",
+          "subTitle": "牙刷架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24860_SALES_QUANTITY",
+          "subTitle": "圆镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48006_SALES_QUANTITY",
+          "subTitle": "带镜子衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20544_SALES_QUANTITY",
+          "subTitle": "羊皮和牛皮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48940_SALES_QUANTITY",
+          "subTitle": "浴室垃圾筒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20543_SALES_QUANTITY",
+          "subTitle": "圆形地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_43632_SALES_QUANTITY",
+          "subTitle": "壁柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20500_SALES_QUANTITY",
+          "subTitle": "镜柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20499_SALES_QUANTITY",
+          "subTitle": "化妆放大镜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10657_SALES_QUANTITY",
+          "subTitle": "卫生纸卷架和支架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39267_SALES_QUANTITY",
+          "subTitle": "手工地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20615_SALES_QUANTITY",
+          "subTitle": "浴室搁架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24831_SALES_QUANTITY",
+          "subTitle": "艺术卡片"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45855_SALES_QUANTITY",
+          "subTitle": "婴儿床垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48931_SALES_QUANTITY",
+          "subTitle": "化妆品收纳袋"
+      }
+  ],
+  "bathroom": [
+      {
+          "rankingId": "THIRD_CATALOG_20720_SALES_QUANTITY",
+          "subTitle": "洗脸池组合柜含水槽"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_54989_SALES_QUANTITY",
+          "subTitle": "洗脸池柜不含水槽"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20721_SALES_QUANTITY",
+          "subTitle": "洗脸池底柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20719_SALES_QUANTITY",
+          "subTitle": "洗脸池"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20521_SALES_QUANTITY",
+          "subTitle": "洗脸毛巾"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48931_SALES_QUANTITY",
+          "subTitle": "化妆品收纳袋"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20499_SALES_QUANTITY",
+          "subTitle": "化妆放大镜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48943_SALES_QUANTITY",
+          "subTitle": "牙刷架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20720_SALES_QUANTITY",
+          "subTitle": "洗脸池组合柜含水槽"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_54989_SALES_QUANTITY",
+          "subTitle": "洗脸池柜不含水槽"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20721_SALES_QUANTITY",
+          "subTitle": "洗脸池底柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48944_SALES_QUANTITY",
+          "subTitle": "厕所用刷"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10657_SALES_QUANTITY",
+          "subTitle": "卫生纸卷架和支架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10650_SALES_QUANTITY",
+          "subTitle": "毛巾架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20858_SALES_QUANTITY",
+          "subTitle": "浴室推车"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20519_SALES_QUANTITY",
+          "subTitle": "浴室垫子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30565_SALES_QUANTITY",
+          "subTitle": "浴室台面"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20722_SALES_QUANTITY",
+          "subTitle": "浴室柜支腿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20804_SALES_QUANTITY",
+          "subTitle": "浴室搁架单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20802_SALES_QUANTITY",
+          "subTitle": "浴室小家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16233_SALES_QUANTITY",
+          "subTitle": "浴室储物盒和篮子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48924_SALES_QUANTITY",
+          "subTitle": "浴室家具部件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20859_SALES_QUANTITY",
+          "subTitle": "浴室脚凳和长凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20615_SALES_QUANTITY",
+          "subTitle": "浴室搁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48940_SALES_QUANTITY",
+          "subTitle": "浴室垃圾筒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48927_SALES_QUANTITY",
+          "subTitle": "浴室配件套装"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48945_SALES_QUANTITY",
+          "subTitle": "其他浴室配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55010_SALES_QUANTITY",
+          "subTitle": "浴室橱柜照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700215_SALES_QUANTITY",
+          "subTitle": "浴室吸顶灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18908_SALES_QUANTITY",
+          "subTitle": "浴帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39269_SALES_QUANTITY",
+          "subTitle": "浴袍/拖鞋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10658_SALES_QUANTITY",
+          "subTitle": "沐浴配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_40693_SALES_QUANTITY",
+          "subTitle": "沐浴套装和挂杆"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_40691_SALES_QUANTITY",
+          "subTitle": "淋浴用混合型水龙头"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47358_SALES_QUANTITY",
+          "subTitle": "淋浴隔断/门"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18701_SALES_QUANTITY",
+          "subTitle": "换衣/沐浴/如厕"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10658_SALES_QUANTITY",
+          "subTitle": "沐浴配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20523_SALES_QUANTITY",
+          "subTitle": "浴巾"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20524_SALES_QUANTITY",
+          "subTitle": "浴毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700214_SALES_QUANTITY",
+          "subTitle": "浴室壁灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700217_SALES_QUANTITY",
+          "subTitle": "浴室智能照明设备"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16233_SALES_QUANTITY",
+          "subTitle": "浴室储物盒和篮子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48940_SALES_QUANTITY",
+          "subTitle": "浴室垃圾筒"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20615_SALES_QUANTITY",
+          "subTitle": "浴室搁架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48927_SALES_QUANTITY",
+          "subTitle": "浴室配件套装"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48945_SALES_QUANTITY",
+          "subTitle": "其他浴室配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_30565_SALES_QUANTITY",
+          "subTitle": "浴室台面"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20722_SALES_QUANTITY",
+          "subTitle": "浴室柜支腿"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20806_SALES_QUANTITY",
+          "subTitle": "浴室高柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20808_SALES_QUANTITY",
+          "subTitle": "浴室连壁柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10555_SALES_QUANTITY",
+          "subTitle": "浴室配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20519_SALES_QUANTITY",
+          "subTitle": "浴室垫子"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_tl003_SALES_QUANTITY",
+          "subTitle": "浴室纺织品"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20719_SALES_QUANTITY",
+          "subTitle": "洗脸池"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_ba002_SALES_QUANTITY",
+          "subTitle": "浴室储物"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20490_SALES_QUANTITY",
+          "subTitle": "浴室镜"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10555_SALES_QUANTITY",
+          "subTitle": "浴室配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_ba003_SALES_QUANTITY",
+          "subTitle": "浴室衣物洗涤及晾晒"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10736_SALES_QUANTITY",
+          "subTitle": "浴室照明"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_46079_SALES_QUANTITY",
+          "subTitle": "浴室家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20859_SALES_QUANTITY",
+          "subTitle": "浴室脚凳和长凳"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20723_SALES_QUANTITY",
+          "subTitle": "浴室水槽"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_40690_SALES_QUANTITY",
+          "subTitle": "浴室花洒"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20724_SALES_QUANTITY",
+          "subTitle": "浴室水龙头"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20601_SALES_QUANTITY",
+          "subTitle": "洗衣蓝"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20602_SALES_QUANTITY",
+          "subTitle": "晾衣架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_48925_SALES_QUANTITY",
+          "subTitle": "洗衣柜和搁架"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_55004_SALES_QUANTITY",
+          "subTitle": "洗衣配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700194_SALES_QUANTITY",
+          "subTitle": "抹布&海绵"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20601_SALES_QUANTITY",
+          "subTitle": "洗衣篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700196_SALES_QUANTITY",
+          "subTitle": "滤水架及配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16214_SALES_QUANTITY",
+          "subTitle": "储物袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20602_SALES_QUANTITY",
+          "subTitle": "晾衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20519_SALES_QUANTITY",
+          "subTitle": "浴室垫子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10650_SALES_QUANTITY",
+          "subTitle": "毛巾架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55004_SALES_QUANTITY",
+          "subTitle": "洗衣配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16233_SALES_QUANTITY",
+          "subTitle": "浴室储物盒和篮子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48945_SALES_QUANTITY",
+          "subTitle": "其他浴室配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24262_SALES_QUANTITY",
+          "subTitle": "水槽附件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16215_SALES_QUANTITY",
+          "subTitle": "垃圾桶和废纸篓"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34470_SALES_QUANTITY",
+          "subTitle": "垃圾分类桶"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10658_SALES_QUANTITY",
+          "subTitle": "沐浴配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20720_SALES_QUANTITY",
+          "subTitle": "洗脸池组合柜含水槽"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700195_SALES_QUANTITY",
+          "subTitle": "皂液器"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46079_SALES_QUANTITY",
+          "subTitle": "浴室家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39269_SALES_QUANTITY",
+          "subTitle": "浴袍/拖鞋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_40692_SALES_QUANTITY",
+          "subTitle": "花洒头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10656_SALES_QUANTITY",
+          "subTitle": "皂液器和肥皂盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20498_SALES_QUANTITY",
+          "subTitle": "化妆镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49138_SALES_QUANTITY",
+          "subTitle": "镜子带照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_40693_SALES_QUANTITY",
+          "subTitle": "沐浴套装和挂杆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48943_SALES_QUANTITY",
+          "subTitle": "牙刷架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20725_SALES_QUANTITY",
+          "subTitle": "水龙头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48940_SALES_QUANTITY",
+          "subTitle": "浴室垃圾筒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700214_SALES_QUANTITY",
+          "subTitle": "浴室壁灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20500_SALES_QUANTITY",
+          "subTitle": "镜柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20499_SALES_QUANTITY",
+          "subTitle": "化妆放大镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55010_SALES_QUANTITY",
+          "subTitle": "浴室橱柜照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48925_SALES_QUANTITY",
+          "subTitle": "洗衣柜和搁架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10657_SALES_QUANTITY",
+          "subTitle": "卫生纸卷架和支架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20615_SALES_QUANTITY",
+          "subTitle": "浴室搁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700215_SALES_QUANTITY",
+          "subTitle": "浴室吸顶灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48931_SALES_QUANTITY",
+          "subTitle": "化妆品收纳袋"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48927_SALES_QUANTITY",
+          "subTitle": "浴室配件套装"
+      }
+  ],
+  "childrens-room": [
+      {
+          "rankingId": "THIRD_CATALOG_45782_SALES_QUANTITY",
+          "subTitle": "婴儿高脚椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18692_SALES_QUANTITY",
+          "subTitle": "婴儿床上用品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18700_SALES_QUANTITY",
+          "subTitle": "婴儿毛巾和浴巾"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18699_SALES_QUANTITY",
+          "subTitle": "婴儿地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18694_SALES_QUANTITY",
+          "subTitle": "婴儿被子和枕头"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18695_SALES_QUANTITY",
+          "subTitle": "婴儿毯子和被子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18698_SALES_QUANTITY",
+          "subTitle": "婴儿窗帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18696_SALES_QUANTITY",
+          "subTitle": "婴儿床篷"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45780_SALES_QUANTITY",
+          "subTitle": "婴儿家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18755_SALES_QUANTITY",
+          "subTitle": "婴儿床和婴儿床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18690_SALES_QUANTITY",
+          "subTitle": "婴儿纺织品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_31772_SALES_QUANTITY",
+          "subTitle": "婴儿餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18716_SALES_QUANTITY",
+          "subTitle": "婴儿玩具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18692_SALES_QUANTITY",
+          "subTitle": "婴儿床上用品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18700_SALES_QUANTITY",
+          "subTitle": "婴儿毛巾和浴巾"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45781_SALES_QUANTITY",
+          "subTitle": "婴儿床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45782_SALES_QUANTITY",
+          "subTitle": "婴儿高脚椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45783_SALES_QUANTITY",
+          "subTitle": "婴儿换衣桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45924_SALES_QUANTITY",
+          "subTitle": "婴儿便盆和浴盆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45855_SALES_QUANTITY",
+          "subTitle": "婴儿床垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18696_SALES_QUANTITY",
+          "subTitle": "婴儿床篷"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18699_SALES_QUANTITY",
+          "subTitle": "婴儿地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18694_SALES_QUANTITY",
+          "subTitle": "婴儿被子和枕头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18695_SALES_QUANTITY",
+          "subTitle": "婴儿毯子和被子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18698_SALES_QUANTITY",
+          "subTitle": "婴儿窗帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18717_SALES_QUANTITY",
+          "subTitle": "初生婴儿"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18707_SALES_QUANTITY",
+          "subTitle": "儿童衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_bc004_SALES_QUANTITY",
+          "subTitle": "儿童桌椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_37899_SALES_QUANTITY",
+          "subTitle": "户外儿童家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24714_SALES_QUANTITY",
+          "subTitle": "儿童书桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18769_SALES_QUANTITY",
+          "subTitle": "儿童椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24715_SALES_QUANTITY",
+          "subTitle": "儿童书桌椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45816_SALES_QUANTITY",
+          "subTitle": "儿童凳和长椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20483_SALES_QUANTITY",
+          "subTitle": "儿童扶手椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45815_SALES_QUANTITY",
+          "subTitle": "儿童餐椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20481_SALES_QUANTITY",
+          "subTitle": "儿童挂钩和墙面收纳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18773_SALES_QUANTITY",
+          "subTitle": "儿童灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18706_SALES_QUANTITY",
+          "subTitle": "儿童储物和收纳件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18767_SALES_QUANTITY",
+          "subTitle": "儿童家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18730_SALES_QUANTITY",
+          "subTitle": "儿童纺织品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24711_SALES_QUANTITY",
+          "subTitle": "儿童装饰品/配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18714_SALES_QUANTITY",
+          "subTitle": "儿童厨具和餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45853_SALES_QUANTITY",
+          "subTitle": "儿童碗盘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45851_SALES_QUANTITY",
+          "subTitle": "儿童餐具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45852_SALES_QUANTITY",
+          "subTitle": "儿童杯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45854_SALES_QUANTITY",
+          "subTitle": "儿童烹饪/烘焙"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16257_SALES_QUANTITY",
+          "subTitle": "儿童安全"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45849_SALES_QUANTITY",
+          "subTitle": "儿童高架床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45848_SALES_QUANTITY",
+          "subTitle": "儿童单人床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45847_SALES_QUANTITY",
+          "subTitle": "儿童床/延伸床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18775_SALES_QUANTITY",
+          "subTitle": "儿童床配件和床篷"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24714_SALES_QUANTITY",
+          "subTitle": "儿童书桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24715_SALES_QUANTITY",
+          "subTitle": "儿童书桌椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45815_SALES_QUANTITY",
+          "subTitle": "儿童餐椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45816_SALES_QUANTITY",
+          "subTitle": "儿童凳和长椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18769_SALES_QUANTITY",
+          "subTitle": "儿童椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20483_SALES_QUANTITY",
+          "subTitle": "儿童扶手椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18776_SALES_QUANTITY",
+          "subTitle": "儿童床上用品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18777_SALES_QUANTITY",
+          "subTitle": "儿童靠垫和毯子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20477_SALES_QUANTITY",
+          "subTitle": "儿童衣物/鞋子收纳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18707_SALES_QUANTITY",
+          "subTitle": "儿童衣柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45788_SALES_QUANTITY",
+          "subTitle": "儿童书桌配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20481_SALES_QUANTITY",
+          "subTitle": "儿童挂钩和墙面收纳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18768_SALES_QUANTITY",
+          "subTitle": "儿童桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_37899_SALES_QUANTITY",
+          "subTitle": "户外儿童家具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_31773_SALES_QUANTITY",
+          "subTitle": "儿童被子和枕头"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18780_SALES_QUANTITY",
+          "subTitle": "儿童窗帘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45853_SALES_QUANTITY",
+          "subTitle": "儿童碗盘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45852_SALES_QUANTITY",
+          "subTitle": "儿童杯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45851_SALES_QUANTITY",
+          "subTitle": "儿童餐具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45854_SALES_QUANTITY",
+          "subTitle": "儿童烹饪/烘焙"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18777_SALES_QUANTITY",
+          "subTitle": "儿童靠垫和毯子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18776_SALES_QUANTITY",
+          "subTitle": "儿童床上用品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_31773_SALES_QUANTITY",
+          "subTitle": "儿童被子和枕头"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18775_SALES_QUANTITY",
+          "subTitle": "儿童床配件和床篷"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18780_SALES_QUANTITY",
+          "subTitle": "儿童窗帘"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18724_SALES_QUANTITY",
+          "subTitle": "儿童床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45855_SALES_QUANTITY",
+          "subTitle": "婴儿床垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45783_SALES_QUANTITY",
+          "subTitle": "婴儿换衣桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18768_SALES_QUANTITY",
+          "subTitle": "儿童桌"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18767_SALES_QUANTITY",
+          "subTitle": "儿童家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18730_SALES_QUANTITY",
+          "subTitle": "儿童纺织品"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_45780_SALES_QUANTITY",
+          "subTitle": "婴儿家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_bc003_SALES_QUANTITY",
+          "subTitle": "儿童"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_bc002_SALES_QUANTITY",
+          "subTitle": "婴儿"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_18690_SALES_QUANTITY",
+          "subTitle": "婴儿纺织品"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18723_SALES_QUANTITY",
+          "subTitle": "儿童床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_45781_SALES_QUANTITY",
+          "subTitle": "婴儿床"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20474_SALES_QUANTITY",
+          "subTitle": "玩具收纳"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18769_SALES_QUANTITY",
+          "subTitle": "儿童椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_31772_SALES_QUANTITY",
+          "subTitle": "婴儿餐具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45816_SALES_QUANTITY",
+          "subTitle": "儿童凳和长椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45853_SALES_QUANTITY",
+          "subTitle": "儿童碗盘"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18768_SALES_QUANTITY",
+          "subTitle": "儿童桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45782_SALES_QUANTITY",
+          "subTitle": "婴儿高脚椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45851_SALES_QUANTITY",
+          "subTitle": "儿童餐具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18776_SALES_QUANTITY",
+          "subTitle": "儿童床上用品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18700_SALES_QUANTITY",
+          "subTitle": "婴儿毛巾和浴巾"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_37899_SALES_QUANTITY",
+          "subTitle": "户外儿童家具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18707_SALES_QUANTITY",
+          "subTitle": "儿童衣柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24714_SALES_QUANTITY",
+          "subTitle": "儿童书桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24715_SALES_QUANTITY",
+          "subTitle": "儿童书桌椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_31773_SALES_QUANTITY",
+          "subTitle": "儿童被子和枕头"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18724_SALES_QUANTITY",
+          "subTitle": "儿童床垫"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18777_SALES_QUANTITY",
+          "subTitle": "儿童靠垫和毯子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18692_SALES_QUANTITY",
+          "subTitle": "婴儿床上用品"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45781_SALES_QUANTITY",
+          "subTitle": "婴儿床"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18773_SALES_QUANTITY",
+          "subTitle": "儿童灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24711_SALES_QUANTITY",
+          "subTitle": "儿童装饰品/配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45783_SALES_QUANTITY",
+          "subTitle": "婴儿换衣桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20483_SALES_QUANTITY",
+          "subTitle": "儿童扶手椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18695_SALES_QUANTITY",
+          "subTitle": "婴儿毯子和被子"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18775_SALES_QUANTITY",
+          "subTitle": "儿童床配件和床篷"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_45815_SALES_QUANTITY",
+          "subTitle": "儿童餐椅"
+      }
+  ],
+  "home-office": [
+      {
+          "rankingId": "THIRD_CATALOG_54173_SALES_QUANTITY",
+          "subTitle": "会议桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47068_SALES_QUANTITY",
+          "subTitle": "会议椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20653_SALES_QUANTITY",
+          "subTitle": "书桌椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20654_SALES_QUANTITY",
+          "subTitle": "办公椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47068_SALES_QUANTITY",
+          "subTitle": "会议椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47423_SALES_QUANTITY",
+          "subTitle": "书桌系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55008_SALES_QUANTITY",
+          "subTitle": "站立式办公桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20651_SALES_QUANTITY",
+          "subTitle": "书桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47069_SALES_QUANTITY",
+          "subTitle": "办公桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24830_SALES_QUANTITY",
+          "subTitle": "笔记本电脑桌"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47081_SALES_QUANTITY",
+          "subTitle": "家用抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47082_SALES_QUANTITY",
+          "subTitle": "办公室抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47084_SALES_QUANTITY",
+          "subTitle": "办公室储物柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47083_SALES_QUANTITY",
+          "subTitle": "家用储物柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_41070_SALES_QUANTITY",
+          "subTitle": "电池和电池充电器"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10765_SALES_QUANTITY",
+          "subTitle": "插座及电线收纳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_40844_SALES_QUANTITY",
+          "subTitle": "USB充电器"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_41069_SALES_QUANTITY",
+          "subTitle": "无线充电用品/配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10574_SALES_QUANTITY",
+          "subTitle": "布告板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10567_SALES_QUANTITY",
+          "subTitle": "杂志夹"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16310_SALES_QUANTITY",
+          "subTitle": "多媒体配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10568_SALES_QUANTITY",
+          "subTitle": "报纸架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10551_SALES_QUANTITY",
+          "subTitle": "文件和多媒体储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10451_SALES_QUANTITY",
+          "subTitle": "抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10711_SALES_QUANTITY",
+          "subTitle": "抽屉柜-书房和办公室"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10385_SALES_QUANTITY",
+          "subTitle": "储物文件柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55012_SALES_QUANTITY",
+          "subTitle": "方格置物架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_11465_SALES_QUANTITY",
+          "subTitle": "搁架单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10382_SALES_QUANTITY",
+          "subTitle": "书柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10397_SALES_QUANTITY",
+          "subTitle": "搁板架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10398_SALES_QUANTITY",
+          "subTitle": "连壁搁板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16200_SALES_QUANTITY",
+          "subTitle": "置物架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20649_SALES_QUANTITY",
+          "subTitle": "书桌和办公桌"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16248_SALES_QUANTITY",
+          "subTitle": "包袋"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_46078_SALES_QUANTITY",
+          "subTitle": "搬家用品"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10398_SALES_QUANTITY",
+          "subTitle": "连壁搁板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20652_SALES_QUANTITY",
+          "subTitle": "书桌椅和办公椅"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20649_SALES_QUANTITY",
+          "subTitle": "书桌和办公桌"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_53249_SALES_QUANTITY",
+          "subTitle": "书桌椅组合"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10711_SALES_QUANTITY",
+          "subTitle": "抽屉柜-书房和办公室"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10385_SALES_QUANTITY",
+          "subTitle": "储物文件柜"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_20502_SALES_QUANTITY",
+          "subTitle": "工作灯"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_40845_SALES_QUANTITY",
+          "subTitle": "电线和充电器"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_10551_SALES_QUANTITY",
+          "subTitle": "文件和多媒体储藏件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47067_SALES_QUANTITY",
+          "subTitle": "电竞椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20653_SALES_QUANTITY",
+          "subTitle": "书桌椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20654_SALES_QUANTITY",
+          "subTitle": "办公椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_24715_SALES_QUANTITY",
+          "subTitle": "儿童书桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47068_SALES_QUANTITY",
+          "subTitle": "会议椅"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10382_SALES_QUANTITY",
+          "subTitle": "书柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10573_SALES_QUANTITY",
+          "subTitle": "办公桌配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16215_SALES_QUANTITY",
+          "subTitle": "垃圾桶和废纸篓"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34470_SALES_QUANTITY",
+          "subTitle": "垃圾分类桶"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16201_SALES_QUANTITY",
+          "subTitle": "储物篮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20660_SALES_QUANTITY",
+          "subTitle": "完整墙面搁板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20502_SALES_QUANTITY",
+          "subTitle": "工作灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16195_SALES_QUANTITY",
+          "subTitle": "电线整理和配件"
+      }
+  ],
+  "hallway": [
+      {
+          "rankingId": "THIRD_CATALOG_10456_SALES_QUANTITY",
+          "subTitle": "鞋柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10455_SALES_QUANTITY",
+          "subTitle": "衣架和晒衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10454_SALES_QUANTITY",
+          "subTitle": "鞋架和鞋柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49770_SALES_QUANTITY",
+          "subTitle": "衣架/鞋架组合单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49769_SALES_QUANTITY",
+          "subTitle": "衣帽架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16295_SALES_QUANTITY",
+          "subTitle": "宜家购物袋和推车"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_27821_SALES_QUANTITY",
+          "subTitle": "背包/斜挎包"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_16213_SALES_QUANTITY",
+          "subTitle": "废纸篓和储物袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10776_SALES_QUANTITY",
+          "subTitle": "花瓶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10451_SALES_QUANTITY",
+          "subTitle": "抽屉柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20492_SALES_QUANTITY",
+          "subTitle": "人造植物和人造花"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10797_SALES_QUANTITY",
+          "subTitle": "墙壁和工作台面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10783_SALES_QUANTITY",
+          "subTitle": "香型蜡烛"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16295_SALES_QUANTITY",
+          "subTitle": "宜家购物袋和推车"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10732_SALES_QUANTITY",
+          "subTitle": "台灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10698_SALES_QUANTITY",
+          "subTitle": "门垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20496_SALES_QUANTITY",
+          "subTitle": "干草和香味混合植物"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_25229_SALES_QUANTITY",
+          "subTitle": "文具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_46053_SALES_QUANTITY",
+          "subTitle": "BESTÅ 贝达系列"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10455_SALES_QUANTITY",
+          "subTitle": "衣架和晒衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_37900_SALES_QUANTITY",
+          "subTitle": "墙储物"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10731_SALES_QUANTITY",
+          "subTitle": "落地灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16214_SALES_QUANTITY",
+          "subTitle": "储物袋"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10785_SALES_QUANTITY",
+          "subTitle": "壁式和台式时钟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18746_SALES_QUANTITY",
+          "subTitle": "相框"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10456_SALES_QUANTITY",
+          "subTitle": "鞋柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20656_SALES_QUANTITY",
+          "subTitle": "床头柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_37894_SALES_QUANTITY",
+          "subTitle": "PLATSA 普拉萨 系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10784_SALES_QUANTITY",
+          "subTitle": "蜡烛台"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20514_SALES_QUANTITY",
+          "subTitle": "LED灯泡"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10454_SALES_QUANTITY",
+          "subTitle": "鞋架和鞋柜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_47394_SALES_QUANTITY",
+          "subTitle": "BOAXEL 博阿克塞 系列"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10574_SALES_QUANTITY",
+          "subTitle": "布告板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_49140_SALES_QUANTITY",
+          "subTitle": "SMÅSTAD 斯玛斯塔 系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16255_SALES_QUANTITY",
+          "subTitle": "旅行配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16215_SALES_QUANTITY",
+          "subTitle": "垃圾桶和废纸篓"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_34470_SALES_QUANTITY",
+          "subTitle": "垃圾分类桶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10786_SALES_QUANTITY",
+          "subTitle": "闹钟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24858_SALES_QUANTITY",
+          "subTitle": "墙面镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24859_SALES_QUANTITY",
+          "subTitle": "大镜子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10782_SALES_QUANTITY",
+          "subTitle": "无味蜡烛"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16201_SALES_QUANTITY",
+          "subTitle": "储物篮"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20660_SALES_QUANTITY",
+          "subTitle": "完整墙面搁板"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_11703_SALES_QUANTITY",
+          "subTitle": "IVAR 伊娃 系列"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_48007_SALES_QUANTITY",
+          "subTitle": "门厅衣柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49770_SALES_QUANTITY",
+          "subTitle": "衣架/鞋架组合单元"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16308_SALES_QUANTITY",
+          "subTitle": "装饰碗碟"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10788_SALES_QUANTITY",
+          "subTitle": "装饰挂画"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20491_SALES_QUANTITY",
+          "subTitle": "提灯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47441_SALES_QUANTITY",
+          "subTitle": "整理收纳袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_14973_SALES_QUANTITY",
+          "subTitle": "室内照明"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16305_SALES_QUANTITY",
+          "subTitle": "展示搁板和图片壁架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10787_SALES_QUANTITY",
+          "subTitle": "海报"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24861_SALES_QUANTITY",
+          "subTitle": "装饰镜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10459_SALES_QUANTITY",
+          "subTitle": "衣服储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49769_SALES_QUANTITY",
+          "subTitle": "衣帽架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_27821_SALES_QUANTITY",
+          "subTitle": "背包/斜挎包"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20498_SALES_QUANTITY",
+          "subTitle": "化妆镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_36813_SALES_QUANTITY",
+          "subTitle": "智能LED灯泡"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10789_SALES_QUANTITY",
+          "subTitle": "拼贴相框"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16283_SALES_QUANTITY",
+          "subTitle": "衣柜灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_49138_SALES_QUANTITY",
+          "subTitle": "镜子带照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_14972_SALES_QUANTITY",
+          "subTitle": "室外照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_18773_SALES_QUANTITY",
+          "subTitle": "儿童灯具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46081_SALES_QUANTITY",
+          "subTitle": "网篮式抽屉框架"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_55015_SALES_QUANTITY",
+          "subTitle": "方格型搁板"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16281_SALES_QUANTITY",
+          "subTitle": "书柜和橱柜照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24860_SALES_QUANTITY",
+          "subTitle": "圆镜"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_48940_SALES_QUANTITY",
+          "subTitle": "浴室垃圾筒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16282_SALES_QUANTITY",
+          "subTitle": "厨房照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700214_SALES_QUANTITY",
+          "subTitle": "浴室壁灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20500_SALES_QUANTITY",
+          "subTitle": "镜柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_36814_SALES_QUANTITY",
+          "subTitle": "控制装置和配件"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20499_SALES_QUANTITY",
+          "subTitle": "化妆放大镜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_55010_SALES_QUANTITY",
+          "subTitle": "浴室橱柜照明"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_16254_SALES_QUANTITY",
+          "subTitle": "旅行袋"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700215_SALES_QUANTITY",
+          "subTitle": "浴室吸顶灯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18708_SALES_QUANTITY",
+          "subTitle": "儿童抽屉柜"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24831_SALES_QUANTITY",
+          "subTitle": "艺术卡片"
+      }
+  ],
+  "outdoor": [
+      {
+          "rankingId": "THIRD_CATALOG_21959_SALES_QUANTITY",
+          "subTitle": "户外沙发"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_17893_SALES_QUANTITY",
+          "subTitle": "户外靠垫"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_od003_SALES_QUANTITY",
+          "subTitle": "户外家具"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_31787_SALES_QUANTITY",
+          "subTitle": "户外花盆和植物"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_21958_SALES_QUANTITY",
+          "subTitle": "户外收纳"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_42924_SALES_QUANTITY",
+          "subTitle": "野餐/户外休闲"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_34203_SALES_QUANTITY",
+          "subTitle": "户外配件"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_21957_SALES_QUANTITY",
+          "subTitle": "户外地板"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_17887_SALES_QUANTITY",
+          "subTitle": "遮阳伞&亭子"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_17897_SALES_QUANTITY",
+          "subTitle": "户外照明"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_55998_SALES_QUANTITY",
+          "subTitle": "户外厨房"
+      },
+      {
+          "rankingId": "SECONDARY_CATALOG_24898_SALES_QUANTITY",
+          "subTitle": "烧烤"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_42924_SALES_QUANTITY",
+          "subTitle": "野餐/户外休闲"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20493_SALES_QUANTITY",
+          "subTitle": "浇水壶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_37899_SALES_QUANTITY",
+          "subTitle": "户外儿童家具"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24887_SALES_QUANTITY",
+          "subTitle": "园艺配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21967_SALES_QUANTITY",
+          "subTitle": "户外餐桌椅组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_46400_SALES_QUANTITY",
+          "subTitle": "户外椅垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_17894_SALES_QUANTITY",
+          "subTitle": "遮阳伞&底座"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_46401_SALES_QUANTITY",
+          "subTitle": "户外靠枕"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24331_SALES_QUANTITY",
+          "subTitle": "亭子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21959_SALES_QUANTITY",
+          "subTitle": "户外沙发"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47386_SALES_QUANTITY",
+          "subTitle": "户外长凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21960_SALES_QUANTITY",
+          "subTitle": "户外沙发组合"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34205_SALES_QUANTITY",
+          "subTitle": "户外家具罩子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21964_SALES_QUANTITY",
+          "subTitle": "户外椅子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_700191_SALES_QUANTITY",
+          "subTitle": "户外桌子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_47386_SALES_QUANTITY",
+          "subTitle": "户外长凳"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21961_SALES_QUANTITY",
+          "subTitle": "户外沙发组件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34205_SALES_QUANTITY",
+          "subTitle": "户外家具罩子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_42924_SALES_QUANTITY",
+          "subTitle": "野餐/户外休闲"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_14972_SALES_QUANTITY",
+          "subTitle": "装饰性户外照明"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21962_SALES_QUANTITY",
+          "subTitle": "户外休闲椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21966_SALES_QUANTITY",
+          "subTitle": "户外餐椅"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_21965_SALES_QUANTITY",
+          "subTitle": "户外餐桌"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_700192_SALES_QUANTITY",
+          "subTitle": "户外茶几"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_46401_SALES_QUANTITY",
+          "subTitle": "户外靠枕"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_42924_SALES_QUANTITY",
+          "subTitle": "野餐/户外休闲"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_21963_SALES_QUANTITY",
+          "subTitle": "户外躺椅和吊床"
+      }
+  ],
+  "laundry": [
+      {
+          "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20492_SALES_QUANTITY",
+          "subTitle": "人造植物和人造花"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10797_SALES_QUANTITY",
+          "subTitle": "墙壁和工作台面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20601_SALES_QUANTITY",
+          "subTitle": "洗衣篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10698_SALES_QUANTITY",
+          "subTitle": "门垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20496_SALES_QUANTITY",
+          "subTitle": "干草和香味混合植物"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10692_SALES_QUANTITY",
+          "subTitle": "大号和中号地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20602_SALES_QUANTITY",
+          "subTitle": "晾衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20519_SALES_QUANTITY",
+          "subTitle": "浴室垫子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20493_SALES_QUANTITY",
+          "subTitle": "浇水壶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10689_SALES_QUANTITY",
+          "subTitle": "长条地毯和小号地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16201_SALES_QUANTITY",
+          "subTitle": "储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20494_SALES_QUANTITY",
+          "subTitle": "植物支撑架和移动用具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24887_SALES_QUANTITY",
+          "subTitle": "园艺配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20544_SALES_QUANTITY",
+          "subTitle": "羊皮和牛皮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20543_SALES_QUANTITY",
+          "subTitle": "圆形地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39267_SALES_QUANTITY",
+          "subTitle": "手工地毯"
+      }
+  ],
+  "balcony": [
+      {
+          "rankingId": "FOURTH_CATALOG_10565_SALES_QUANTITY",
+          "subTitle": "衣服储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20492_SALES_QUANTITY",
+          "subTitle": "人造植物和人造花"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_10797_SALES_QUANTITY",
+          "subTitle": "墙壁和工作台面储藏件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20601_SALES_QUANTITY",
+          "subTitle": "洗衣篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10698_SALES_QUANTITY",
+          "subTitle": "门垫"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20496_SALES_QUANTITY",
+          "subTitle": "干草和香味混合植物"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16202_SALES_QUANTITY",
+          "subTitle": "纸张和音像产品储物盒"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10692_SALES_QUANTITY",
+          "subTitle": "大号和中号地毯"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_20479_SALES_QUANTITY",
+          "subTitle": "儿童储物盒和储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20602_SALES_QUANTITY",
+          "subTitle": "晾衣架"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20519_SALES_QUANTITY",
+          "subTitle": "浴室垫子"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10778_SALES_QUANTITY",
+          "subTitle": "室内花盆"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20493_SALES_QUANTITY",
+          "subTitle": "浇水壶"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_10689_SALES_QUANTITY",
+          "subTitle": "长条地毯和小号地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_30436_SALES_QUANTITY",
+          "subTitle": "户外花盆"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_16201_SALES_QUANTITY",
+          "subTitle": "储物篮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20494_SALES_QUANTITY",
+          "subTitle": "植物支撑架和移动用具"
+      },
+      {
+          "rankingId": "FOURTH_CATALOG_18774_SALES_QUANTITY",
+          "subTitle": "儿童地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_24887_SALES_QUANTITY",
+          "subTitle": "园艺配件"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_34204_SALES_QUANTITY",
+          "subTitle": "户外地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20544_SALES_QUANTITY",
+          "subTitle": "羊皮和牛皮"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_20543_SALES_QUANTITY",
+          "subTitle": "圆形地毯"
+      },
+      {
+          "rankingId": "THIRD_CATALOG_39267_SALES_QUANTITY",
+          "subTitle": "手工地毯"
+      }
+  ],
+  "other": [
+    {
+      "rankingId": "SECONDARY_CATALOG_46080_SALES_QUANTITY",
+      "subTitle": "房间隔断"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_fu005_SALES_QUANTITY",
+      "subTitle": "推车"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_16244_SALES_QUANTITY",
+      "subTitle": "吧台家具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_fu006_SALES_QUANTITY",
+      "subTitle": "扶手椅和贵妃椅"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_19141_SALES_QUANTITY",
+      "subTitle": "咖啡馆家具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_10655_SALES_QUANTITY",
+      "subTitle": "布料和缝纫用品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_18850_SALES_QUANTITY",
+      "subTitle": "厨房纺织品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_li002_SALES_QUANTITY",
+      "subTitle": "灯具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_14971_SALES_QUANTITY",
+      "subTitle": "装饰性灯具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_16280_SALES_QUANTITY",
+      "subTitle": "内置灯具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_36812_SALES_QUANTITY",
+      "subTitle": "智能照明"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_20514_SALES_QUANTITY",
+      "subTitle": "LED灯泡"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_10698_SALES_QUANTITY",
+      "subTitle": "门垫"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_20494_SALES_QUANTITY",
+      "subTitle": "植物支撑架和移动用具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_24887_SALES_QUANTITY",
+      "subTitle": "园艺配件"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_20493_SALES_QUANTITY",
+      "subTitle": "浇水壶"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_56472_SALES_QUANTITY",
+      "subTitle": "空气净化器"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_53259_SALES_QUANTITY",
+      "subTitle": "智能家居设备"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_46194_SALES_QUANTITY",
+      "subTitle": "无线音箱"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49150_SALES_QUANTITY",
+      "subTitle": "冬季照明"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49151_SALES_QUANTITY",
+      "subTitle": "冬季花盆和绿植"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49149_SALES_QUANTITY",
+      "subTitle": "冬季装饰"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25228_SALES_QUANTITY",
+      "subTitle": "包装纸、礼品袋和配件"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49227_SALES_QUANTITY",
+      "subTitle": "假日美味"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49152_SALES_QUANTITY",
+      "subTitle": "冬季纺织品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49153_SALES_QUANTITY",
+      "subTitle": "冬季餐具"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49154_SALES_QUANTITY",
+      "subTitle": "冬季烹饪和烘焙"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_16292_SALES_QUANTITY",
+      "subTitle": "工具和安装件"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_42948_SALES_QUANTITY",
+      "subTitle": "护理油/着色剂/产品保养"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_46077_SALES_QUANTITY",
+      "subTitle": "吸音板"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_sp001_SALES_QUANTITY",
+      "subTitle": "安全产品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_39569_SALES_QUANTITY",
+      "subTitle": "猫"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_39570_SALES_QUANTITY",
+      "subTitle": "狗"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25215_SALES_QUANTITY",
+      "subTitle": "蛋糕、甜点和饼干"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25211_SALES_QUANTITY",
+      "subTitle": "饮料"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_46192_SALES_QUANTITY",
+      "subTitle": "小吃和甜食"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25213_SALES_QUANTITY",
+      "subTitle": "素食和植物性食品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25217_SALES_QUANTITY",
+      "subTitle": "肉"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25212_SALES_QUANTITY",
+      "subTitle": "面包和奶制品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25216_SALES_QUANTITY",
+      "subTitle": "调味料、奶酪和果酱"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_25214_SALES_QUANTITY",
+      "subTitle": "鱼和海产品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49147_SALES_QUANTITY",
+      "subTitle": "配菜和酱汁"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_47430_SALES_QUANTITY",
+      "subTitle": "园艺"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_47432_SALES_QUANTITY",
+      "subTitle": "夏季装饰"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_47429_SALES_QUANTITY",
+      "subTitle": "夏日派对"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_47431_SALES_QUANTITY",
+      "subTitle": "夏季纺织品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_53254_SALES_QUANTITY",
+      "subTitle": "夏季食品"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_44531_SALES_QUANTITY",
+      "subTitle": "电动卷帘"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_40843_SALES_QUANTITY",
+      "subTitle": "手机/平板配件"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_40842_SALES_QUANTITY",
+      "subTitle": "扬声器"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_49081_SALES_QUANTITY",
+      "subTitle": "空气净化器和过滤器"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_16195_SALES_QUANTITY",
+      "subTitle": "电线整理和配件"
+    },
+    {
+      "rankingId": "SECONDARY_CATALOG_20608_SALES_QUANTITY",
+      "subTitle": "烫衣板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46053_SALES_QUANTITY",
+      "subTitle": "BESTÅ 贝达系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_19086_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_37894_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49140_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_11703_SALES_QUANTITY",
+      "subTitle": "IVAR 伊娃 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_45730_SALES_QUANTITY",
+      "subTitle": "JONAXEL 尤纳赛尔 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_47394_SALES_QUANTITY",
+      "subTitle": "BOAXEL 博阿克塞 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_35766_SALES_QUANTITY",
+      "subTitle": "ELVARLI 爱尔瓦丽 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_42245_SALES_QUANTITY",
+      "subTitle": "BROR 巴拉 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_14317_SALES_QUANTITY",
+      "subTitle": "OMAR 奥马尔 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_47401_SALES_QUANTITY",
+      "subTitle": "TORDH 托儿德赫 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46082_SALES_QUANTITY",
+      "subTitle": "冰袋"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49228_SALES_QUANTITY",
+      "subTitle": "假日早餐"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49229_SALES_QUANTITY",
+      "subTitle": "假日晚宴"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49232_SALES_QUANTITY",
+      "subTitle": "假日美食"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49230_SALES_QUANTITY",
+      "subTitle": "假日庆典"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49233_SALES_QUANTITY",
+      "subTitle": "假日礼品"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_23598_SALES_QUANTITY",
+      "subTitle": "METOD 米多产品系列"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_50003_SALES_QUANTITY",
+      "subTitle": "METOD 米多 配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_50382_SALES_QUANTITY",
+      "subTitle": "适用于METOD米多系列的电器"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_50002_SALES_QUANTITY",
+      "subTitle": "适用于METOD米多系列照明"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_700277_SALES_QUANTITY",
+      "subTitle": "BESTÅ 贝达推荐组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_700226_SALES_QUANTITY",
+      "subTitle": "BESTÅ 贝达基础储物柜"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_700278_SALES_QUANTITY",
+      "subTitle": "BESTÅ 贝达所有组件和配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_24337_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 带门组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19113_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 内部储藏件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19115_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 滑门"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19110_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 无门组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19106_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 合叶门框架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_14949_SALES_QUANTITY",
+      "subTitle": "拉钮和拉手"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_42242_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 衣柜照明"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_40206_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 不含合叶门"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19112_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 带合叶门"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20087_SALES_QUANTITY",
+      "subTitle": "PAX 帕克思 滑门框架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_37897_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_37896_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 框架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_37898_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 内外配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_41687_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 门（无合叶）"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_37895_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 合叶门"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_41686_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 抽屉"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_41685_SALES_QUANTITY",
+      "subTitle": "PLATSA 普拉萨 滑门"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_49142_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_49145_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 框架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_49144_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 内部配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_49763_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 拉钮、把手和配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_49143_SALES_QUANTITY",
+      "subTitle": "SMÅSTAD 斯玛斯塔 柜门和抽屉前板"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_11704_SALES_QUANTITY",
+      "subTitle": "IVAR 伊娃组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_11705_SALES_QUANTITY",
+      "subTitle": "IVAR 伊娃组件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_45732_SALES_QUANTITY",
+      "subTitle": "JONAXEL 尤纳赛尔 组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_45731_SALES_QUANTITY",
+      "subTitle": "JONAXEL 尤纳赛尔 配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47396_SALES_QUANTITY",
+      "subTitle": "BOAXEL 博阿克塞 储物组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47395_SALES_QUANTITY",
+      "subTitle": "BOAXEL 博阿克塞 部件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35769_SALES_QUANTITY",
+      "subTitle": "立柱组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35768_SALES_QUANTITY",
+      "subTitle": "侧架组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35767_SALES_QUANTITY",
+      "subTitle": "立柱/侧架/内配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_42247_SALES_QUANTITY",
+      "subTitle": "BROR 巴拉组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_42246_SALES_QUANTITY",
+      "subTitle": "BROR 巴拉组件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_14318_SALES_QUANTITY",
+      "subTitle": "OMAR 奥马尔组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_14319_SALES_QUANTITY",
+      "subTitle": "OMAR 奥马尔组件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47403_SALES_QUANTITY",
+      "subTitle": "TORDH 托儿德赫 组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47402_SALES_QUANTITY",
+      "subTitle": "TORDH 托儿德赫 部件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20614_SALES_QUANTITY",
+      "subTitle": "秤"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_55989_SALES_QUANTITY",
+      "subTitle": "TROTTEN 特罗滕系列"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_11811_SALES_QUANTITY",
+      "subTitle": "组合书桌系列"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18960_SALES_QUANTITY",
+      "subTitle": "BEKANT 贝肯特 系列"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47424_SALES_QUANTITY",
+      "subTitle": "IDÅSEN 伊朵森 系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_57527_SALES_QUANTITY",
+      "subTitle": "贵妃椅"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10705_SALES_QUANTITY",
+      "subTitle": "茶几和边桌"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_57537_SALES_QUANTITY",
+      "subTitle": "多功能桌"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20657_SALES_QUANTITY",
+      "subTitle": "梳妆台"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16246_SALES_QUANTITY",
+      "subTitle": "长几"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_29882_SALES_QUANTITY",
+      "subTitle": "客厅储物系列"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20652_SALES_QUANTITY",
+      "subTitle": "书桌椅和办公椅"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10728_SALES_QUANTITY",
+      "subTitle": "凳和长凳"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20611_SALES_QUANTITY",
+      "subTitle": "踏脚凳和梯子"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20474_SALES_QUANTITY",
+      "subTitle": "玩具收纳"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20484_SALES_QUANTITY",
+      "subTitle": "游戏帐篷"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_47360_SALES_QUANTITY",
+      "subTitle": "吧台桌椅组合"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16239_SALES_QUANTITY",
+      "subTitle": "扶手椅"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_47359_SALES_QUANTITY",
+      "subTitle": "躺椅"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_57299_SALES_QUANTITY",
+      "subTitle": "扶手椅配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_48992_SALES_QUANTITY",
+      "subTitle": "安纳特 门板和抽屉面板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_23607_SALES_QUANTITY",
+      "subTitle": "底柜，框架高度80cm"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_24258_SALES_QUANTITY",
+      "subTitle": "搁板和抽屉"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_24260_SALES_QUANTITY",
+      "subTitle": "合叶和阻尼"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_24256_SALES_QUANTITY",
+      "subTitle": "清洁收纳件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_33546_SALES_QUANTITY",
+      "subTitle": "复合板操作台面"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46458_SALES_QUANTITY",
+      "subTitle": "石英石操作台面"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_33547_SALES_QUANTITY",
+      "subTitle": "台面配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46473_SALES_QUANTITY",
+      "subTitle": "层压板防溅挡板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10573_SALES_QUANTITY",
+      "subTitle": "办公桌配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20617_SALES_QUANTITY",
+      "subTitle": "挂钩"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_55015_SALES_QUANTITY",
+      "subTitle": "方格型搁板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_55014_SALES_QUANTITY",
+      "subTitle": "隐形支架式搁板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20660_SALES_QUANTITY",
+      "subTitle": "完整墙面搁板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20658_SALES_QUANTITY",
+      "subTitle": "搁板"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20659_SALES_QUANTITY",
+      "subTitle": "托架"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_18903_SALES_QUANTITY",
+      "subTitle": "靠垫套"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_18902_SALES_QUANTITY",
+      "subTitle": "靠垫"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_18904_SALES_QUANTITY",
+      "subTitle": "内衬垫"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20520_SALES_QUANTITY",
+      "subTitle": "毛巾"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_14349_SALES_QUANTITY",
+      "subTitle": "布"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_14350_SALES_QUANTITY",
+      "subTitle": "缝纫用品"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10699_SALES_QUANTITY",
+      "subTitle": "防滑垫和底垫"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10695_SALES_QUANTITY",
+      "subTitle": "东方地毯"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16306_SALES_QUANTITY",
+      "subTitle": "装饰贴纸"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10779_SALES_QUANTITY",
+      "subTitle": "植物"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16201_SALES_QUANTITY",
+      "subTitle": "储物篮"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10797_SALES_QUANTITY",
+      "subTitle": "墙壁和工作台面储藏件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20495_SALES_QUANTITY",
+      "subTitle": "自动灌水花盆"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49139_SALES_QUANTITY",
+      "subTitle": "立镜"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20500_SALES_QUANTITY",
+      "subTitle": "镜柜"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20499_SALES_QUANTITY",
+      "subTitle": "化妆放大镜"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_39266_SALES_QUANTITY",
+      "subTitle": "LED蜡烛"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16307_SALES_QUANTITY",
+      "subTitle": "蜡烛配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_25228_SALES_QUANTITY",
+      "subTitle": "包装纸、礼品袋和配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_58412_SALES_QUANTITY",
+      "subTitle": "干花和香薰"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_58411_SALES_QUANTITY",
+      "subTitle": "香薰挂件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10650_SALES_QUANTITY",
+      "subTitle": "毛巾架"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_48931_SALES_QUANTITY",
+      "subTitle": "化妆品收纳袋"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10657_SALES_QUANTITY",
+      "subTitle": "卫生纸卷架和支架"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_48943_SALES_QUANTITY",
+      "subTitle": "牙刷架"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20614_SALES_QUANTITY",
+      "subTitle": "秤"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20726_SALES_QUANTITY",
+      "subTitle": "回水管和滤器"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_17895_SALES_QUANTITY",
+      "subTitle": "防风和遮阳"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_10803_SALES_QUANTITY",
+      "subTitle": "灯罩、灯座和电线"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_18750_SALES_QUANTITY",
+      "subTitle": "顶灯"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20503_SALES_QUANTITY",
+      "subTitle": "壁灯"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20506_SALES_QUANTITY",
+      "subTitle": "射灯"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_20515_SALES_QUANTITY",
+      "subTitle": "LED灯具"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_42248_SALES_QUANTITY",
+      "subTitle": "智能内置照明"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_36815_SALES_QUANTITY",
+      "subTitle": "智能照明套件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_18734_SALES_QUANTITY",
+      "subTitle": "玩具和玩耍"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_41068_SALES_QUANTITY",
+      "subTitle": "手机/平板电脑架"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46194_SALES_QUANTITY",
+      "subTitle": "无线音箱"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_46193_SALES_QUANTITY",
+      "subTitle": "蓝牙音箱"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_34470_SALES_QUANTITY",
+      "subTitle": "垃圾分类桶"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16215_SALES_QUANTITY",
+      "subTitle": "垃圾桶和废纸篓"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16214_SALES_QUANTITY",
+      "subTitle": "储物袋"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49158_SALES_QUANTITY",
+      "subTitle": "冬季树木和绿植"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49159_SALES_QUANTITY",
+      "subTitle": "花环、装饰花枝和装饰物"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49160_SALES_QUANTITY",
+      "subTitle": "冬季花盆和花瓶"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49155_SALES_QUANTITY",
+      "subTitle": "圣诞树装饰和配件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49157_SALES_QUANTITY",
+      "subTitle": "冬季蜡烛和蜡烛台"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49156_SALES_QUANTITY",
+      "subTitle": "冬季桌面装饰"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_49768_SALES_QUANTITY",
+      "subTitle": "螺丝和紧固件"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16293_SALES_QUANTITY",
+      "subTitle": "工具"
+    },
+    {
+      "rankingId": "THIRD_CATALOG_16256_SALES_QUANTITY",
+      "subTitle": "居家安全"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_36212_SALES_QUANTITY",
+      "subTitle": "一桌四椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_36209_SALES_QUANTITY",
+      "subTitle": "一桌二椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_36213_SALES_QUANTITY",
+      "subTitle": "一桌六椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47361_SALES_QUANTITY",
+      "subTitle": "一桌十椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57654_SALES_QUANTITY",
+      "subTitle": "脚凳垫套"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20927_SALES_QUANTITY",
+      "subTitle": "布艺脚凳"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20929_SALES_QUANTITY",
+      "subTitle": "藤脚凳"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35188_SALES_QUANTITY",
+      "subTitle": "皮革脚凳一"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35187_SALES_QUANTITY",
+      "subTitle": "皮革脚凳二"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20928_SALES_QUANTITY",
+      "subTitle": "真皮脚凳"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10679_SALES_QUANTITY",
+      "subTitle": "布艺贵妃椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10694_SALES_QUANTITY",
+      "subTitle": "皮革贵妃椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10996_SALES_QUANTITY",
+      "subTitle": "POÄNG 波昂 椅垫"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_55014_SALES_QUANTITY",
+      "subTitle": "隐形支架式搁板"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20658_SALES_QUANTITY",
+      "subTitle": "搁板"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20659_SALES_QUANTITY",
+      "subTitle": "托架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47423_SALES_QUANTITY",
+      "subTitle": "书桌系列"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_55008_SALES_QUANTITY",
+      "subTitle": "站立式办公桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20651_SALES_QUANTITY",
+      "subTitle": "书桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47069_SALES_QUANTITY",
+      "subTitle": "办公桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47070_SALES_QUANTITY",
+      "subTitle": "电竞桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_24830_SALES_QUANTITY",
+      "subTitle": "笔记本电脑桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_53249_SALES_QUANTITY",
+      "subTitle": "书桌椅组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10717_SALES_QUANTITY",
+      "subTitle": "边桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10716_SALES_QUANTITY",
+      "subTitle": "茶几"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57298_SALES_QUANTITY",
+      "subTitle": "套桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_25206_SALES_QUANTITY",
+      "subTitle": "连壁桌"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47084_SALES_QUANTITY",
+      "subTitle": "办公室储物柜"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47083_SALES_QUANTITY",
+      "subTitle": "家用储物柜"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47081_SALES_QUANTITY",
+      "subTitle": "家用抽屉柜"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47082_SALES_QUANTITY",
+      "subTitle": "办公室抽屉柜"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_16239_SALES_QUANTITY",
+      "subTitle": "扶手椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57527_SALES_QUANTITY",
+      "subTitle": "贵妃椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57299_SALES_QUANTITY",
+      "subTitle": "扶手椅配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_25222_SALES_QUANTITY",
+      "subTitle": "折叠椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_25223_SALES_QUANTITY",
+      "subTitle": "椅套"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_22660_SALES_QUANTITY",
+      "subTitle": "长凳"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_22659_SALES_QUANTITY",
+      "subTitle": "凳子"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10687_SALES_QUANTITY",
+      "subTitle": "布艺扶手椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10696_SALES_QUANTITY",
+      "subTitle": "真皮扶手椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_35186_SALES_QUANTITY",
+      "subTitle": "皮革扶手椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20907_SALES_QUANTITY",
+      "subTitle": "藤椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_700303_SALES_QUANTITY",
+      "subTitle": "曲木扶手椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_53257_SALES_QUANTITY",
+      "subTitle": "休闲椅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57302_SALES_QUANTITY",
+      "subTitle": "扶手椅和贵妃椅垫"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_19121_SALES_QUANTITY",
+      "subTitle": "墙面板"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_55006_SALES_QUANTITY",
+      "subTitle": "ENHET 安纳特 储物组合"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_50011_SALES_QUANTITY",
+      "subTitle": "ENHET 安纳特 水槽和龙头"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48981_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48982_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 电器"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48980_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 拉钮&把手"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48979_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 水槽和水龙头"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48983_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 墙面板"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48984_SALES_QUANTITY",
+      "subTitle": "KNOXHULT 诺克胡 照明"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48987_SALES_QUANTITY",
+      "subTitle": "SUNNERSTA 苏纳思 配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48988_SALES_QUANTITY",
+      "subTitle": "SUNNERSTA 苏纳思 电器"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_48989_SALES_QUANTITY",
+      "subTitle": "SUNNERSTA 苏纳思 水龙头"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_54991_SALES_QUANTITY",
+      "subTitle": "厚重毛毯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10567_SALES_QUANTITY",
+      "subTitle": "杂志夹"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_16310_SALES_QUANTITY",
+      "subTitle": "多媒体配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10568_SALES_QUANTITY",
+      "subTitle": "报纸架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_15952_SALES_QUANTITY",
+      "subTitle": "酒架"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_46082_SALES_QUANTITY",
+      "subTitle": "冰袋"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_47380_SALES_QUANTITY",
+      "subTitle": "收纳鞋盒"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20525_SALES_QUANTITY",
+      "subTitle": "擦手巾"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10804_SALES_QUANTITY",
+      "subTitle": "灯罩"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_10805_SALES_QUANTITY",
+      "subTitle": "灯座和电线"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18752_SALES_QUANTITY",
+      "subTitle": "吸顶灯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18753_SALES_QUANTITY",
+      "subTitle": "天花板射灯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20504_SALES_QUANTITY",
+      "subTitle": "墙壁灯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20505_SALES_QUANTITY",
+      "subTitle": "壁式射灯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_57542_SALES_QUANTITY",
+      "subTitle": "LED照明条"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20516_SALES_QUANTITY",
+      "subTitle": "LED灯"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20484_SALES_QUANTITY",
+      "subTitle": "游戏帐篷"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18735_SALES_QUANTITY",
+      "subTitle": "手工艺品"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18740_SALES_QUANTITY",
+      "subTitle": "毛绒玩具"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18737_SALES_QUANTITY",
+      "subTitle": "扮家家"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18736_SALES_QUANTITY",
+      "subTitle": "体育"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18738_SALES_QUANTITY",
+      "subTitle": "木质玩具"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_42921_SALES_QUANTITY",
+      "subTitle": "家庭/纸牌游戏"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_45728_SALES_QUANTITY",
+      "subTitle": "宝宝锻炼用品，游戏垫和活动吊饰"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18721_SALES_QUANTITY",
+      "subTitle": "18个月以上"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18719_SALES_QUANTITY",
+      "subTitle": "6个月以上"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_18720_SALES_QUANTITY",
+      "subTitle": "12个月以上"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20630_SALES_QUANTITY",
+      "subTitle": "煎锅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20631_SALES_QUANTITY",
+      "subTitle": "炒锅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_22664_SALES_QUANTITY",
+      "subTitle": "烤盘"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_22665_SALES_QUANTITY",
+      "subTitle": "长柄煎锅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20634_SALES_QUANTITY",
+      "subTitle": "深锅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_31774_SALES_QUANTITY",
+      "subTitle": "炊具组"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20635_SALES_QUANTITY",
+      "subTitle": "平底深锅"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_22668_SALES_QUANTITY",
+      "subTitle": "带盖烘盘"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_33499_SALES_QUANTITY",
+      "subTitle": "烹饪准备用具"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_33498_SALES_QUANTITY",
+      "subTitle": "烹饪用具"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20667_SALES_QUANTITY",
+      "subTitle": "滤器"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_33500_SALES_QUANTITY",
+      "subTitle": "冰淇淋和冰块配件"
+    },
+    {
+      "rankingId": "FOURTH_CATALOG_20669_SALES_QUANTITY",
+      "subTitle": "搅拌碗"
+    }
+  ]
+}
