@@ -39,7 +39,7 @@
     "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
-    "@commitlint/cli": "16.2.1",
+    "@commitlint/cli": "16.2.3",
     "@commitlint/config-conventional": "16.2.1",
     "@types/node": "16.11.26",
     "@types/react": "17.0.40",
