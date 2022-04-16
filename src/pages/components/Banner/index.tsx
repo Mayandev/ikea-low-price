@@ -10,9 +10,7 @@ export default function Banner() {
 
   return (
     <div
-      className={
-        "h-72 sm:h-44 sm:rounded-md  w-full dark:bg-dark-black dark:sm:bg-dark-black bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')]"
-      }
+      className={`h-72 sm:h-44 sm:rounded-md  w-full dark:bg-dark-black dark:sm:bg-dark-black bg-cover relative bg-[url('/hero-bg.png')] lg:bg-[url('/hero-bg-lg.png')] transition-all duration-200`}
       style={{ backgroundColor: `${isDark ? "#35363a" : bgColor}` }}
     >
       <div className="sm:hidden absolute bottom-0 left-0 h-24 w-full bg-gradient-to-b from-ikea-orange/0 to-[#f2f2f2] dark:to-dark-black" />
